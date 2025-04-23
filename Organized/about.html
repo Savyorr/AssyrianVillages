@@ -1,0 +1,89 @@
+<!-- HTML Structure -->
+<div id="about-popup" class="popup-overlay">
+    <div class="popup-content">
+      <span class="close-btn" onclick="closeAboutPopup()">&times;</span>
+      <h2>About Assyrian Villages</h2>
+      <p>
+        Assyrian Villages is dedicated to safeguarding and celebrating the rich history and vibrant culture of Assyrian communities globally. We believe that preserving our heritage is essential for maintaining the identity, traditions, and cultural continuity of Assyrian people everywhere.
+      </p>
+  
+      <h3>Our Mission</h3>
+      <p>
+        Our mission is to comprehensively document and share the stories, traditions, and histories of Assyrian villages. By capturing these precious narratives, we aim to strengthen connections between generations and foster a deeper understanding and appreciation of Assyrian identity.
+      </p>
+  
+      <h3>Why It's Important</h3>
+      <p>
+        Many Assyrian villages and their histories face the risk of being forgotten due to displacement, cultural assimilation, and the passage of time. Through meticulous documentation, we preserve not only the past but empower future generations to reconnect with their roots, fostering a stronger and more unified community.
+      </p>
+  
+      <h3>Our Vision</h3>
+      <p>
+        By building the largest and most detailed database of Assyrian villages, we hope to create a resource that promotes cultural education, strengthens communal bonds, and serves as a foundation for ongoing research, advocacy, and cultural revival initiatives.
+      </p>
+    </div>
+  </div>
+  
+  <!-- CSS Styling -->
+  <style>
+  .popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  .popup-content {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 30px;
+    border-radius: 15px;
+    width: 90%;
+    max-width: 650px;
+    position: relative;
+    box-shadow: 0 0 20px rgba(161, 13, 13, 0.8);
+    animation: popup-fade 0.4s ease-in-out;
+    text-align: center;
+    color: #333;
+  }
+  .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 32px;
+    cursor: pointer;
+    color: rgb(161, 13, 13);
+    text-shadow: 0 0 8px rgba(161, 13, 13, 0.7);
+  }
+  .popup-content h2, .popup-content h3 {
+    color: rgb(161, 13, 13);
+    text-shadow: 0 0 10px rgba(161, 13, 13, 0.6);
+    margin-bottom: 15px;
+  }
+  .popup-content p {
+    margin-bottom: 20px;
+  }
+  @keyframes popup-fade {
+    from {opacity: 0; transform: scale(0.7);}
+    to {opacity: 1; transform: scale(1);}
+  }
+  </style>
+  
+  <!-- JavaScript Functions -->
+  <script>
+  function openAboutPopup() {
+    document.getElementById('about-popup').style.display = 'flex';
+  }
+  
+  function closeAboutPopup() {
+    document.getElementById('about-popup').style.display = 'none';
+  }
+  </script>
+  
+  <!-- Example link/button to open the popup -->
+  <button style="padding:10px 20px; background:rgb(161,13,13); color:#fff; border:none; border-radius:8px; box-shadow:0 0 15px rgba(161,13,13,0.6); cursor:pointer;" onclick="openAboutPopup()">About Us</button>
+  

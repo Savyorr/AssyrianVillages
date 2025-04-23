@@ -1,0 +1,91 @@
+[
+    {
+    "name": "NINEVEH PLAIN",
+    "lat": 36.4625,
+    "lng": 43.2206,
+    "description": "",
+       "labelPosition": "bottom"
+    
+  },
+  {
+    "name": "HAKKARI",
+    "lat": 37.3828,
+    "lng": 43.7919,
+    "description": ""
+  },
+  {
+    "name": "URMI",
+    "lat": 37.5478,
+    "lng": 45.0581,
+    "description": "",
+       "labelPosition": "bottom"
+  },
+  {
+    "name": "SALAMAS",
+    "lat": 38.2025,
+    "lng": 44.7678,
+    "description": ""
+    
+  },
+  {
+    "name": "BOTAN",
+    "lat": 37.3564,
+    "lng": 42.5986,
+    "description": "",
+       "labelPosition": "bottom"
+    
+  },
+  {
+    "name": "KHABOUR",
+    "lat": 36.5897,
+    "lng": 40.4525,
+    "description": "",
+       "labelPosition": "bottom"
+  },
+  {
+    "name": "TUR ABDIN",
+    "lat": 37.344167,
+    "lng": 41.336389,
+    "description": "",
+       "labelPosition": "bottom"
+  },
+  {
+    "name": "AQRA",
+    "lat": 36.8183,
+    "lng": 43.8875,
+    "description": "",
+       "labelPosition": "bottom"
+  },
+  {
+    "name": "VAN",
+    "lat": 38.494167,
+    "lng": 43.38,
+    "description": ""
+  },
+  {
+    "name": "MALATYA",
+    "lat": 38.310378,
+    "lng": 38.309273,
+    "description": ""
+  },
+  {
+    "name": "BATMAN",
+    "lat": 37.887,
+    "lng": 41.132,
+    "description": ""
+  },
+  {
+    "name": "AMID",
+    "lat": 37.93,
+    "lng": 40.195,
+    "description": "",
+       "labelPosition": "bottom"
+  },
+  {
+    "name": "SIIRT",
+    "lat": 37.933333,
+    "lng": 41.933333,
+    "description": "",
+       "labelPosition": "bottom"
+  }
+]

@@ -1,0 +1,4890 @@
+[
+  {
+    "name": "ARBAYE",
+    "lat": 37.56,
+    "lng": 41.658,
+    "description": "",
+    "image": "assets/images/arbaye.jpg"
+  },
+  {
+    "name": "KERBORAN",
+    "lat": 37.547,
+    "lng": 41.718,
+    "description": "",
+    "image": "assets/images/kerboran.jpg"
+  },
+  {
+    "name": "HAH",
+    "lat": 37.476,
+    "lng": 41.61,
+    "description": "",
+    "image": "assets/images/hah.jpg"
+  },
+  {
+    "name": "AYN WARDO",
+    "lat": 37.407,
+    "lng": 41.486,
+    "description": "",
+    "image": "assets/images/aynwardo.jpg"
+  },
+  {
+    "name": "URDNUS",
+    "lat": 37.455,
+    "lng": 41.458,
+    "description": "",
+    "image": "assets/images/urdnus.jpg"
+  },
+  {
+    "name": "SALEH",
+    "lat": 37.482,
+    "lng": 41.401,
+    "description": "",
+    "image": "assets/images/saleh.jpg"
+  },
+  {
+    "name": "DAYRO DU SLIBO",
+    "lat": 37.561,
+    "lng": 41.608,
+    "description": "",
+    "image": "assets/images/dayroduslibo.jpg"
+  },
+  {
+    "name": "YARDO",
+    "lat": 37.546,
+    "lng": 41.46,
+    "description": "",
+    "image": "assets/images/yardo.jpg"
+  },
+  {
+    "name": "GAZARTA",
+    "lat": 37.331,
+    "lng": 42.212,
+    "description": "",
+    "image": "assets/images/gazarta.jpg"
+  },
+  {
+    "name": "AZAKH",
+    "lat": 37.341,
+    "lng": 41.891,
+    "description": "",
+    "image": "assets/images/azakh.jpg"
+  },
+  {
+    "name": "MIDIN",
+    "lat": 37.337,
+    "lng": 41.746,
+    "description": "",
+    "image": "assets/images/midin.jpg"
+  },
+  {
+    "name": "SARE",
+    "lat": 37.286,
+    "lng": 41.621,
+    "description": "",
+    "image": "assets/images/sare.jpg"
+  },
+  {
+    "name": "BSORINO",
+    "lat": 37.308,
+    "lng": 41.621,
+    "description": "",
+    "image": "assets/images/bsorino.jpg"
+  },
+  {
+    "name": "KFARBE",
+    "lat": 37.319,
+    "lng": 41.557,
+    "description": "",
+    "image": "assets/images/kfarbe.jpg"
+  },
+  {
+    "name": "AHLAH",
+    "lat": 37.457,
+    "lng": 41.487,
+    "description": "",
+    "image": "assets/images/ahlah.jpg"
+  },
+  {
+    "name": "BINEBIL",
+    "lat": 37.315,
+    "lng": 40.838,
+    "description": "",
+    "image": "assets/images/binebil.jpg"
+  },
+  {
+    "name": "BOTE",
+    "lat": 37.487,
+    "lng": 41.433,
+    "description": "",
+    "image": "assets/images/bote.jpg"
+  },
+  {
+    "name": "DARA",
+    "lat": 37.177,
+    "lng": 40.952,
+    "description": "",
+    "image": "assets/images/dara.jpg"
+  },
+  {
+    "name": "KFARZE",
+    "lat": 37.444,
+    "lng": 41.528,
+    "description": "",
+    "image": "assets/images/kfarze.jpg"
+  },
+  {
+    "name": "MIDYAT",
+    "lat": 37.416,
+    "lng": 41.369,
+    "description": "",
+    "image": "assets/images/midyat.jpg"
+  },
+  {
+    "name": "MARDIN",
+    "lat": 37.3123,
+    "lng": 40.7396,
+    "description": "",
+    "image": "assets/images/mardin.jpg"
+  },
+  {
+    "name": "DERIK",
+    "lat": 37.365,
+    "lng": 40.269,
+    "description": "",
+    "image": "assets/images/derik.jpg"
+  },
+  {
+    "name": "BETH ZALIN",
+    "lat": 37.0441,
+    "lng": 41.1994,
+    "description": "",
+    "image": "assets/images/bethzalin.jpg"
+  },
+  {
+    "name": "AMID",
+    "lat": 37.914,
+    "lng": 40.23,
+    "description": "",
+    "image": "assets/images/amid.jpg"
+  },
+  {
+    "name": "HESNO D KIFO",
+    "lat": 37.711,
+    "lng": 41.417,
+    "description": "",
+    "image": "assets/images/hesnodkifo.jpg"
+  },
+  {
+    "name": "NISIBIN",
+    "lat": 37.09,
+    "lng": 41.211,
+    "description": "",
+    "image": "assets/images/nisibin.jpg"
+  },
+  {
+    "name": "JURMAL",
+    "lat": 37.583,
+    "lng": 43.733,
+    "description": "",
+    "image": "assets/images/jurmal.jpg"
+  },
+  {
+    "name": "ESFES",
+    "lat": 37.39,
+    "lng": 41.864,
+    "description": "",
+    "image": "assets/images/esfes.jpg"
+  },
+  {
+    "name": "MASARTEH",
+    "lat": 37.403,
+    "lng": 40.953,
+    "description": "",
+    "image": "assets/images/masarteh.jpg"
+  },
+  {
+    "name": "SHURO",
+    "lat": 37.536,
+    "lng": 40.888,
+    "description": "",
+    "image": "assets/images/shuro.jpg"
+  },
+  {
+    "name": "ARBO",
+    "lat": 37.272,
+    "lng": 41.482,
+    "description": "",
+    "image": "assets/images/arbo.jpg"
+  },
+  {
+    "name": "MAR BOBO",
+    "lat": 37.138,
+    "lng": 41.452,
+    "description": "",
+    "image": "assets/images/marbobo.jpg"
+  },
+  {
+    "name": "GIREMIRA",
+    "lat": 37.115,
+    "lng": 41.427,
+    "description": "",
+    "image": "assets/images/giremira.jpg"
+  },
+  {
+    "name": "BETH DEBE",
+    "lat": 37.207,
+    "lng": 41.444,
+    "description": "",
+    "image": "assets/images/bethdebe.jpg"
+  },
+  {
+    "name": "IHWO",
+    "lat": 37.237,
+    "lng": 41.462,
+    "description": "",
+    "image": "assets/images/ihwo.jpg"
+  },
+  {
+    "name": "GUNDUK SHUKRO",
+    "lat": 37.104,
+    "lng": 41.462,
+    "description": "",
+    "image": "assets/images/gundukshukro.jpg"
+  },
+  {
+    "name": "HABESNAS",
+    "lat": 37.472,
+    "lng": 41.339,
+    "description": "",
+    "image": "assets/images/habesnas.jpg"
+  },
+  {
+    "name": "KHARABE MISHKA",
+    "lat": 37.206,
+    "lng": 41.397,
+    "description": "",
+    "image": "assets/images/kharabemishka.jpg"
+  },
+  {
+    "name": "KAFRO TAHTAYTO",
+    "lat": 37.282,
+    "lng": 41.406,
+    "description": "",
+    "image": "assets/images/kafrotahtayto.jpg"
+  },
+  {
+    "name": "BETH M‘ARE",
+    "lat": 37.163,
+    "lng": 41.386,
+    "description": "",
+    "image": "assets/images/bethm‘are.jpg"
+  },
+  {
+    "name": "MZIZAH",
+    "lat": 37.372,
+    "lng": 41.448,
+    "description": "",
+    "image": "assets/images/mzizah.jpg"
+  },
+  {
+    "name": "SEDERI",
+    "lat": 37.215,
+    "lng": 41.409,
+    "description": "",
+    "image": "assets/images/sederi.jpg"
+  },
+  {
+    "name": "HASSAKAH",
+    "lat": 36.493,
+    "lng": 40.766,
+    "description": "",
+    "image": "assets/images/hassakah.jpg"
+  },
+  {
+    "name": "ANKAWA",
+    "lat": 36.229,
+    "lng": 43.993,
+    "description": "",
+    "image": "assets/images/ankawa.jpg"
+  },
+  {
+    "name": "ARBEL",
+    "lat": 36.191,
+    "lng": 44.009,
+    "description": "",
+    "image": "assets/images/arbel.jpg"
+  },
+  {
+    "name": "BARTILLA",
+    "lat": 36.352,
+    "lng": 43.379,
+    "description": "",
+    "image": "assets/images/bartilla.jpg"
+  },
+  {
+    "name": "BIDYAL",
+    "lat": 36.932,
+    "lng": 44.141,
+    "description": "",
+    "image": "assets/images/bidyal.jpg"
+  },
+  {
+    "name": "DIYANA",
+    "lat": 36.67,
+    "lng": 44.552,
+    "description": "",
+    "image": "assets/images/diyana.jpg"
+  },
+  {
+    "name": "GUNDE KOSE",
+    "lat": 37.0914,
+    "lng": 42.9436,
+    "description": "",
+    "image": "assets/images/gundekose.jpg"
+  },
+  {
+    "name": "ALQOSH",
+    "lat": 36.735,
+    "lng": 43.096,
+    "description": "",
+    "image": "assets/images/alqosh.jpg"
+  },
+  {
+    "name": "MANGESHE",
+    "lat": 37.037,
+    "lng": 43.0917,
+    "description": "",
+    "image": "assets/images/mangeshe.jpg"
+  },
+  {
+    "name": "KHORSABAD",
+    "lat": 36.51,
+    "lng": 43.223,
+    "description": "",
+    "image": "assets/images/khorsabad.jpg"
+  },
+  {
+    "name": "SHAQLAWA",
+    "lat": 36.396,
+    "lng": 44.34,
+    "description": "",
+    "image": "assets/images/shaqlawa.jpg"
+  },
+  {
+    "name": "TELL KEPE",
+    "lat": 36.489,
+    "lng": 43.119,
+    "description": "",
+    "image": "assets/images/tellkepe.jpg"
+  },
+  {
+    "name": "ZAKHO",
+    "lat": 37.138,
+    "lng": 42.698,
+    "description": "",
+    "image": "assets/images/zakho.jpg"
+  },
+  {
+    "name": "BAGHDEDA",
+    "lat": 36.269,
+    "lng": 43.377,
+    "description": "",
+    "image": "assets/images/baghdeda.jpg"
+  },
+  {
+    "name": "BALAWAT",
+    "lat": 36.222,
+    "lng": 43.415,
+    "description": "",
+    "image": "assets/images/balawat.jpg"
+  },
+  {
+    "name": "BAQOPA",
+    "lat": 36.588,
+    "lng": 43.13,
+    "description": "",
+    "image": "assets/images/baqopa.jpg"
+  },
+  {
+    "name": "BATNAYA",
+    "lat": 36.539,
+    "lng": 43.122,
+    "description": "",
+    "image": "assets/images/batnaya.jpg"
+  },
+  {
+    "name": "KARIMLISH",
+    "lat": 36.303,
+    "lng": 43.412,
+    "description": "",
+    "image": "assets/images/karimlish.jpg"
+  },
+  {
+    "name": "SHARAFIYAH",
+    "lat": 36.689,
+    "lng": 43.096,
+    "description": "",
+    "image": "assets/images/sharafiyah.jpg"
+  },
+  {
+    "name": "TESQOPA",
+    "lat": 36.597,
+    "lng": 43.103,
+    "description": "",
+    "image": "assets/images/tesqopa.jpg"
+  },
+  {
+    "name": "HARIR",
+    "lat": 36.552,
+    "lng": 44.346,
+    "description": "",
+    "image": "assets/images/harir.jpg"
+  },
+  {
+    "name": "AYN SIFNE",
+    "lat": 36.694,
+    "lng": 43.35,
+    "description": "",
+    "image": "assets/images/aynsifne.jpg"
+  },
+  {
+    "name": "BATAS",
+    "lat": 36.563,
+    "lng": 44.336,
+    "description": "",
+    "image": "assets/images/batas.jpg"
+  },
+  {
+    "name": "DARBANDOKE",
+    "lat": 36.582,
+    "lng": 44.312,
+    "description": "",
+    "image": "assets/images/darbandoke.jpg"
+  },
+  {
+    "name": "DERISHKE",
+    "lat": 37.235,
+    "lng": 43.4308,
+    "description": "",
+    "image": "assets/images/derishke.jpg"
+  },
+  {
+    "name": "NUHADRA",
+    "lat": 36.864,
+    "lng": 42.999,
+    "description": "",
+    "image": "assets/images/nuhadra.jpg"
+  },
+  {
+    "name": "DURE(BARWAR)",
+    "lat": 37.223,
+    "lng": 43.471,
+    "description": "",
+    "image": "assets/images/dure(barwar).jpg"
+  },
+  {
+    "name": "ZAZ",
+    "lat": 37.513,
+    "lng": 41.536,
+    "description": "",
+    "image": "assets/images/zaz.jpg"
+  },
+  {
+    "name": "BETH QUSTAN",
+    "lat": 37.495,
+    "lng": 41.626,
+    "description": "",
+    "image": "assets/images/bethqustan.jpg"
+  },
+  {
+    "name": "ANHEL",
+    "lat": 37.326,
+    "lng": 41.346,
+    "description": "",
+    "image": "assets/images/anhel.jpg"
+  },
+  {
+    "name": "URMIA",
+    "lat": 37.553,
+    "lng": 45.0759,
+    "description": "",
+    "image": "assets/images/urmia.jpg"
+  },
+  {
+    "name": "HALANA",
+    "lat": 37.299,
+    "lng": 44.755,
+    "description": "",
+    "image": "assets/images/halana.jpg"
+  },
+  {
+    "name": "HANANIS",
+    "lat": 37.557,
+    "lng": 43.611,
+    "description": "",
+    "image": "assets/images/hananis.jpg"
+  },
+  {
+    "name": "ORAMAR",
+    "lat": 37.373,
+    "lng": 44.085,
+    "description": "",
+    "image": "assets/images/oramar.jpg"
+  },
+  {
+    "name": "CHAL",
+    "lat": 37.25,
+    "lng": 43.616,
+    "description": "",
+    "image": "assets/images/chal.jpg"
+  },
+  {
+    "name": "HASSANA",
+    "lat": 37.341,
+    "lng": 42.425,
+    "description": "",
+    "image": "assets/images/hassana.jpg"
+  },
+  {
+    "name": "PESHABUR",
+    "lat": 37.067,
+    "lng": 42.377,
+    "description": "",
+    "image": "assets/images/peshabur.jpg"
+  },
+  {
+    "name": "KHANIK",
+    "lat": 37.073,
+    "lng": 42.37,
+    "description": "",
+    "image": "assets/images/khanik.jpg"
+  },
+  {
+    "name": "DAYRABUN",
+    "lat": 37.0856,
+    "lng": 42.4222,
+    "description": "",
+    "image": "assets/images/dayrabun.jpg"
+  },
+  {
+    "name": "RABBAT",
+    "lat": 37.436089,
+    "lng": 43.757601,
+    "description": "",
+    "image": "assets/images/rabbat.jpg"
+  },
+  {
+    "name": "MAR BHISHU",
+    "lat": 37.5949,
+    "lng": 43.6947,
+    "description": "",
+    "image": "assets/images/marbhishu.jpg"
+  },
+  {
+    "name": "SHWAWUTA",
+    "lat": 37.6669,
+    "lng": 43.931,
+    "description": "",
+    "image": "assets/images/shwawuta.jpg"
+  },
+  {
+    "name": "ASHITHA",
+    "lat": 37.3323,
+    "lng": 43.3793,
+    "description": "",
+    "image": "assets/images/ashitha.jpg"
+  },
+  {
+    "name": "GAZNAKH",
+    "lat": 37.6008,
+    "lng": 43.1029,
+    "description": "",
+    "image": "assets/images/gaznakh.jpg"
+  },
+  {
+    "name": "KHIDHYANA",
+    "lat": 37.4157,
+    "lng": 43.6269,
+    "description": "",
+    "image": "assets/images/khidhyana.jpg"
+  },
+  {
+    "name": "SUWA",
+    "lat": 37.5563,
+    "lng": 43.9358,
+    "description": "",
+    "image": "assets/images/suwa.jpg"
+  },
+  {
+    "name": "NINEVEH",
+    "lat": 36.3529,
+    "lng": 43.1407,
+    "description": "",
+    "image": "assets/images/nineveh.jpg"
+  },
+  {
+    "name": "NIMRUD",
+    "lat": 36.1011,
+    "lng": 43.3271,
+    "description": "",
+    "image": "assets/images/nimrud.jpg"
+  },
+  {
+    "name": "ASSUR",
+    "lat": 35.4605,
+    "lng": 43.2624,
+    "description": "",
+    "image": "assets/images/assur.jpg"
+  },
+  {
+    "name": "TIS",
+    "lat": 37.4006,
+    "lng": 44.5971,
+    "description": "",
+    "image": "assets/images/tis.jpg"
+  },
+  {
+    "name": "BE AZIZA",
+    "lat": 37.453,
+    "lng": 43.7573,
+    "description": "",
+    "image": "assets/images/beaziza.jpg"
+  },
+  {
+    "name": "LOWER ARTUN",
+    "lat": 37.9237,
+    "lng": 42.3541,
+    "description": "",
+    "image": "assets/images/lowerartun.jpg"
+  },
+  {
+    "name": "KIBB",
+    "lat": 37.9528,
+    "lng": 42.538,
+    "description": "",
+    "image": "assets/images/kibb.jpg"
+  },
+  {
+    "name": "BIDAR",
+    "lat": 37.9743,
+    "lng": 42.648,
+    "description": "",
+    "image": "assets/images/bidar.jpg"
+  },
+  {
+    "name": "HARMANIS",
+    "lat": 38.5347,
+    "lng": 43.6199,
+    "description": "",
+    "image": "assets/images/harmanis.jpg"
+  },
+  {
+    "name": "SARUNIS",
+    "lat": 37.3713,
+    "lng": 44.4752,
+    "description": "",
+    "image": "assets/images/sarunis.jpg"
+  },
+  {
+    "name": "ATEL",
+    "lat": 37.77,
+    "lng": 42.4678,
+    "description": "",
+    "image": "assets/images/atel.jpg"
+  },
+  {
+    "name": "MARGA",
+    "lat": 37.369,
+    "lng": 43.0756,
+    "description": "",
+    "image": "assets/images/marga.jpg"
+  },
+  {
+    "name": "QALAYATHA",
+    "lat": 37.3939,
+    "lng": 43.5343,
+    "description": "",
+    "image": "assets/images/qalayatha.jpg"
+  },
+  {
+    "name": "KURSIN",
+    "lat": 37.5632,
+    "lng": 43.917,
+    "description": "",
+    "image": "assets/images/kursin.jpg"
+  },
+  {
+    "name": "BE IKTA",
+    "lat": 37.454,
+    "lng": 43.7207,
+    "description": "",
+    "image": "assets/images/beikta.jpg"
+  },
+  {
+    "name": "GERAMON",
+    "lat": 37.3611,
+    "lng": 43.2776,
+    "description": "",
+    "image": "assets/images/geramon.jpg"
+  },
+  {
+    "name": "NISHA",
+    "lat": 37.6201,
+    "lng": 43.5433,
+    "description": "",
+    "image": "assets/images/nisha.jpg"
+  },
+  {
+    "name": "BET KARE",
+    "lat": 37.5533,
+    "lng": 43.4815,
+    "description": "",
+    "image": "assets/images/betkare.jpg"
+  },
+  {
+    "name": "KHARGIL",
+    "lat": 37.6129,
+    "lng": 43.5138,
+    "description": "",
+    "image": "assets/images/khargil.jpg"
+  },
+  {
+    "name": "BILLEH",
+    "lat": 37.7167,
+    "lng": 43.6,
+    "description": "",
+    "image": "assets/images/billeh.jpg"
+  },
+  {
+    "name": "ERKI",
+    "lat": 37.5596,
+    "lng": 43.5179,
+    "description": "",
+    "image": "assets/images/erki.jpg"
+  },
+  {
+    "name": "IQWAL",
+    "lat": 37.536,
+    "lng": 43.4934,
+    "description": "",
+    "image": "assets/images/iqwal.jpg"
+  },
+  {
+    "name": "BEJO",
+    "lat": 37.392,
+    "lng": 42.9899,
+    "description": "",
+    "image": "assets/images/bejo.jpg"
+  },
+  {
+    "name": "HALMON",
+    "lat": 37.3558,
+    "lng": 43.2604,
+    "description": "",
+    "image": "assets/images/halmon.jpg"
+  },
+  {
+    "name": "KHARABALE",
+    "lat": 37.2574,
+    "lng": 41.4354,
+    "description": "",
+    "image": "assets/images/kharabale.jpg"
+  },
+  {
+    "name": "AROWIN",
+    "lat": 37.2991,
+    "lng": 41.6779,
+    "description": "",
+    "image": "assets/images/arowin.jpg"
+  },
+  {
+    "name": "DAYR QUBBE",
+    "lat": 37.5009,
+    "lng": 41.7117,
+    "description": "",
+    "image": "assets/images/dayrqubbe.jpg"
+  },
+  {
+    "name": "QAL‘AT MARAH",
+    "lat": 37.306,
+    "lng": 40.7729,
+    "description": "",
+    "image": "assets/images/qal‘atmarah.jpg"
+  },
+  {
+    "name": "QILLETH",
+    "lat": 37.5494,
+    "lng": 40.9603,
+    "description": "",
+    "image": "assets/images/qilleth.jpg"
+  },
+  {
+    "name": "ESHTRAKO",
+    "lat": 37.4735,
+    "lng": 41.5561,
+    "description": "",
+    "image": "assets/images/eshtrako.jpg"
+  },
+  {
+    "name": "HIDEL",
+    "lat": 37.3732,
+    "lng": 41.7831,
+    "description": "",
+    "image": "assets/images/hidel.jpg"
+  },
+  {
+    "name": "LIZAN",
+    "lat": 37.3103,
+    "lng": 43.5058,
+    "description": "",
+    "image": "assets/images/lizan.jpg"
+  },
+  {
+    "name": "BE DIWE",
+    "lat": 37.3221,
+    "lng": 44.428,
+    "description": "",
+    "image": "assets/images/bediwe.jpg"
+  },
+  {
+    "name": "BA‘SHIQAH",
+    "lat": 36.453,
+    "lng": 43.3485,
+    "description": "",
+    "image": "assets/images/ba‘shiqah.jpg"
+  },
+  {
+    "name": "BANDAWAYA",
+    "lat": 36.7338,
+    "lng": 43.038,
+    "description": "",
+    "image": "assets/images/bandawaya.jpg"
+  },
+  {
+    "name": "ZAWITA",
+    "lat": 36.9053,
+    "lng": 43.1397,
+    "description": "",
+    "image": "assets/images/zawita.jpg"
+  },
+  {
+    "name": "ISHTA D NAHRA",
+    "lat": 37.4844,
+    "lng": 43.5634,
+    "description": "",
+    "image": "assets/images/ishtadnahra.jpg"
+  },
+  {
+    "name": "QALANIS",
+    "lat": 37.7076,
+    "lng": 44.0752,
+    "description": "",
+    "image": "assets/images/qalanis.jpg"
+  },
+  {
+    "name": "CHAMBA D BADAL",
+    "lat": 37.4861,
+    "lng": 43.6265,
+    "description": "",
+    "image": "assets/images/chambadbadal.jpg"
+  },
+  {
+    "name": "ISHTAZIN",
+    "lat": 37.4183,
+    "lng": 44.1057,
+    "description": "",
+    "image": "assets/images/ishtazin.jpg"
+  },
+  {
+    "name": "QUDSHANIS",
+    "lat": 37.6532,
+    "lng": 43.797,
+    "description": "",
+    "image": "assets/images/qudshanis.jpg"
+  },
+  {
+    "name": "MAR ISHU",
+    "lat": 37.3246,
+    "lng": 44.5844,
+    "description": "",
+    "image": "assets/images/marishu.jpg"
+  },
+  {
+    "name": "AREWUN",
+    "lat": 37.43977,
+    "lng": 43.751507,
+    "description": "",
+    "image": "assets/images/arewun.jpg"
+  },
+  {
+    "name": "HARBOL",
+    "lat": 37.3365,
+    "lng": 42.6319,
+    "description": "",
+    "image": "assets/images/harbol.jpg"
+  },
+  {
+    "name": "BETH KHATME",
+    "lat": 36.8066,
+    "lng": 42.8609,
+    "description": "",
+    "image": "assets/images/bethkhatme.jpg"
+  },
+  {
+    "name": "AYN NUNE",
+    "lat": 37.2288,
+    "lng": 43.4389,
+    "description": "",
+    "image": "assets/images/aynnune.jpg"
+  },
+  {
+    "name": "CHAMMAKIYE",
+    "lat": 37.7096,
+    "lng": 45.1398,
+    "description": "",
+    "image": "assets/images/chammakiye.jpg"
+  },
+  {
+    "name": "‘ADA",
+    "lat": 37.7031,
+    "lng": 45.1842,
+    "description": "",
+    "image": "assets/images/‘ada.jpg"
+  },
+  {
+    "name": "ANHAR",
+    "lat": 37.5886,
+    "lng": 44.9792,
+    "description": "",
+    "image": "assets/images/anhar.jpg"
+  },
+  {
+    "name": "ARMUT AGHACH",
+    "lat": 37.6672,
+    "lng": 44.9839,
+    "description": "",
+    "image": "assets/images/armutaghach.jpg"
+  },
+  {
+    "name": "ARDISHAI",
+    "lat": 37.4522,
+    "lng": 45.2581,
+    "description": "",
+    "image": "assets/images/ardishai.jpg"
+  },
+  {
+    "name": "BALANUSH",
+    "lat": 37.3964,
+    "lng": 45.1647,
+    "description": "",
+    "image": "assets/images/balanush.jpg"
+  },
+  {
+    "name": "DIZZA TAKKYA",
+    "lat": 37.4225,
+    "lng": 45.1728,
+    "description": "",
+    "image": "assets/images/dizzatakkya.jpg"
+  },
+  {
+    "name": "GAVILAN",
+    "lat": 37.9569,
+    "lng": 44.9947,
+    "description": "",
+    "image": "assets/images/gavilan.jpg"
+  },
+  {
+    "name": "GUGTAPAH",
+    "lat": 37.5172,
+    "lng": 45.1447,
+    "description": "",
+    "image": "assets/images/gugtapah.jpg"
+  },
+  {
+    "name": "GULPASHAN",
+    "lat": 37.5425,
+    "lng": 45.1736,
+    "description": "",
+    "image": "assets/images/gulpashan.jpg"
+  },
+  {
+    "name": "KHANISHAN",
+    "lat": 37.7608,
+    "lng": 45.1853,
+    "description": "",
+    "image": "assets/images/khanishan.jpg"
+  },
+  {
+    "name": "LULPA",
+    "lat": 37.7158,
+    "lng": 45.0367,
+    "description": "",
+    "image": "assets/images/lulpa.jpg"
+  },
+  {
+    "name": "MAWANA",
+    "lat": 37.5742,
+    "lng": 44.7961,
+    "description": "",
+    "image": "assets/images/mawana.jpg"
+  },
+  {
+    "name": "QARAJALU",
+    "lat": 37.7379,
+    "lng": 45.1466,
+    "description": "",
+    "image": "assets/images/qarajalu.jpg"
+  },
+  {
+    "name": "SA’ATLU",
+    "lat": 37.4217,
+    "lng": 45.1483,
+    "description": "",
+    "image": "assets/images/sa’atlu.jpg"
+  },
+  {
+    "name": "SANGAR D BURASHAN",
+    "lat": 37.5678,
+    "lng": 45.1272,
+    "description": "",
+    "image": "assets/images/sangardburashan.jpg"
+  },
+  {
+    "name": "JAMALAVA",
+    "lat": 37.9714,
+    "lng": 45.0053,
+    "description": "",
+    "image": "assets/images/jamalava.jpg"
+  },
+  {
+    "name": "SARNA",
+    "lat": 38.1364,
+    "lng": 44.77,
+    "description": "",
+    "image": "assets/images/sarna.jpg"
+  },
+  {
+    "name": "SHIRABAD",
+    "lat": 37.7525,
+    "lng": 45.15,
+    "description": "",
+    "image": "assets/images/shirabad.jpg"
+  },
+  {
+    "name": "SUPURGHAN",
+    "lat": 37.7525,
+    "lng": 45.1989,
+    "description": "",
+    "image": "assets/images/supurghan.jpg"
+  },
+  {
+    "name": "YANGIJAH",
+    "lat": 37.7428,
+    "lng": 45.1706,
+    "description": "",
+    "image": "assets/images/yangijah.jpg"
+  },
+  {
+    "name": "ZUMALLAN",
+    "lat": 37.6997,
+    "lng": 45.0344,
+    "description": "",
+    "image": "assets/images/zumallan.jpg"
+  },
+  {
+    "name": "BE BEDE",
+    "lat": 37.1,
+    "lng": 43.45,
+    "description": "",
+    "image": "assets/images/bebede.jpg"
+  },
+  {
+    "name": "AMEDIYA",
+    "lat": 37.0925,
+    "lng": 43.4872,
+    "description": "",
+    "image": "assets/images/amediya.jpg"
+  },
+  {
+    "name": "SHARANISH",
+    "lat": 37.2426,
+    "lng": 42.8658,
+    "description": "",
+    "image": "assets/images/sharanish.jpg"
+  },
+  {
+    "name": "BETH ISHOQ",
+    "lat": 37.3597,
+    "lng": 41.7143,
+    "description": "",
+    "image": "assets/images/bethishoq.jpg"
+  },
+  {
+    "name": "MEER",
+    "lat": 37.6079,
+    "lng": 42.8609,
+    "description": "",
+    "image": "assets/images/meer.jpg"
+  },
+  {
+    "name": "KAFRO ‘ELAYTO",
+    "lat": 37.5103,
+    "lng": 41.4456,
+    "description": "",
+    "image": "assets/images/kafro‘elayto.jpg"
+  },
+  {
+    "name": "BIN KALBEH",
+    "lat": 37.5896,
+    "lng": 41.4837,
+    "description": "",
+    "image": "assets/images/binkalbeh.jpg"
+  },
+  {
+    "name": "ISHSHE",
+    "lat": 37.482,
+    "lng": 42.7469,
+    "description": "",
+    "image": "assets/images/ishshe.jpg"
+  },
+  {
+    "name": "ZARJEL",
+    "lat": 37.882,
+    "lng": 41.2568,
+    "description": "",
+    "image": "assets/images/zarjel.jpg"
+  },
+  {
+    "name": "OZ",
+    "lat": 37.5945,
+    "lng": 42.8453,
+    "description": "",
+    "image": "assets/images/oz.jpg"
+  },
+  {
+    "name": "TAMARZE",
+    "lat": 37.3015,
+    "lng": 41.7098,
+    "description": "",
+    "image": "assets/images/tamarze.jpg"
+  },
+  {
+    "name": "MAR ZAYA",
+    "lat": 37.4495,
+    "lng": 43.9651,
+    "description": "",
+    "image": "assets/images/marzaya.jpg"
+  },
+  {
+    "name": "QURRANA",
+    "lat": 37.58,
+    "lng": 44.7909,
+    "description": "",
+    "image": "assets/images/qurrana.jpg"
+  },
+  {
+    "name": "QUCHIYE",
+    "lat": 37.9896,
+    "lng": 45.0358,
+    "description": "",
+    "image": "assets/images/quchiye.jpg"
+  },
+  {
+    "name": "KALASHAN",
+    "lat": 38.144,
+    "lng": 44.7947,
+    "description": "",
+    "image": "assets/images/kalashan.jpg"
+  },
+  {
+    "name": "MAHLAM",
+    "lat": 38.1312,
+    "lng": 44.738,
+    "description": "",
+    "image": "assets/images/mahlam.jpg"
+  },
+  {
+    "name": "HAPTUWAN",
+    "lat": 38.1678,
+    "lng": 44.7594,
+    "description": "",
+    "image": "assets/images/haptuwan.jpg"
+  },
+  {
+    "name": "BALAW",
+    "lat": 37.6326,
+    "lng": 45.0363,
+    "description": "",
+    "image": "assets/images/balaw.jpg"
+  },
+  {
+    "name": "ATRUSH",
+    "lat": 36.8373,
+    "lng": 43.3337,
+    "description": "",
+    "image": "assets/images/atrush.jpg"
+  },
+  {
+    "name": "ARADIN",
+    "lat": 37.1088,
+    "lng": 43.3183,
+    "description": "",
+    "image": "assets/images/aradin.jpg"
+  },
+  {
+    "name": "INISHK",
+    "lat": 37.1041,
+    "lng": 43.3574,
+    "description": "",
+    "image": "assets/images/inishk.jpg"
+  },
+  {
+    "name": "KOMANE",
+    "lat": 37.0853,
+    "lng": 43.5233,
+    "description": "",
+    "image": "assets/images/komane.jpg"
+  },
+  {
+    "name": "DEHE",
+    "lat": 37.1333,
+    "lng": 43.1833,
+    "description": "",
+    "image": "assets/images/dehe.jpg"
+  },
+  {
+    "name": "TELL KHISH",
+    "lat": 36.7682,
+    "lng": 43.0441,
+    "description": "",
+    "image": "assets/images/tellkhish.jpg"
+  },
+  {
+    "name": "BOZAN",
+    "lat": 36.7362,
+    "lng": 43.13,
+    "description": "",
+    "image": "assets/images/bozan.jpg"
+  },
+  {
+    "name": "LALISH",
+    "lat": 36.7716,
+    "lng": 43.3036,
+    "description": "",
+    "image": "assets/images/lalish.jpg"
+  },
+  {
+    "name": "DIZZE",
+    "lat": 36.8515,
+    "lng": 43.2452,
+    "description": "",
+    "image": "assets/images/dizze.jpg"
+  },
+  {
+    "name": "BE DOLE",
+    "lat": 36.8629,
+    "lng": 43.2369,
+    "description": "",
+    "image": "assets/images/bedole.jpg"
+  },
+  {
+    "name": "BE BOZE",
+    "lat": 36.8876,
+    "lng": 43.3142,
+    "description": "",
+    "image": "assets/images/beboze.jpg"
+  },
+  {
+    "name": "UPPER CHAMANKE",
+    "lat": 36.9381,
+    "lng": 43.4123,
+    "description": "",
+    "image": "assets/images/upperchamanke.jpg"
+  },
+  {
+    "name": "NAHLA",
+    "lat": 36.8633,
+    "lng": 43.6748,
+    "description": "",
+    "image": "assets/images/nahla.jpg"
+  },
+  {
+    "name": "MAYE",
+    "lat": 37.2389,
+    "lng": 43.4117,
+    "description": "",
+    "image": "assets/images/maye.jpg"
+  },
+  {
+    "name": "UPPER AROSH",
+    "lat": 37.3285,
+    "lng": 43.3008,
+    "description": "",
+    "image": "assets/images/upperarosh.jpg"
+  },
+  {
+    "name": "UMM GHARGAN",
+    "lat": 36.5758,
+    "lng": 40.5585,
+    "description": "",
+    "image": "assets/images/ummghargan.jpg"
+  },
+  {
+    "name": "TELL ‘ARBUSH",
+    "lat": 36.5745,
+    "lng": 40.5523,
+    "description": "",
+    "image": "assets/images/tell‘arbush.jpg"
+  },
+  {
+    "name": "TELL BRIJ",
+    "lat": 36.5703,
+    "lng": 40.5438,
+    "description": "",
+    "image": "assets/images/tellbrij.jpg"
+  },
+  {
+    "name": "TELL SAKRAH",
+    "lat": 36.5744,
+    "lng": 40.532,
+    "description": "",
+    "image": "assets/images/tellsakrah.jpg"
+  },
+  {
+    "name": "TELL WARDIYAT",
+    "lat": 36.5752,
+    "lng": 40.5153,
+    "description": "",
+    "image": "assets/images/tellwardiyat.jpg"
+  },
+  {
+    "name": "TELL SHAMAH",
+    "lat": 36.5748,
+    "lng": 40.5075,
+    "description": "",
+    "image": "assets/images/tellshamah.jpg"
+  },
+  {
+    "name": "TELL HERMIZ",
+    "lat": 36.5629,
+    "lng": 40.5568,
+    "description": "",
+    "image": "assets/images/tellhermiz.jpg"
+  },
+  {
+    "name": "TELL TAL",
+    "lat": 36.5683,
+    "lng": 40.5273,
+    "description": "",
+    "image": "assets/images/telltal.jpg"
+  },
+  {
+    "name": "TELL MUKHADHAH",
+    "lat": 36.5681,
+    "lng": 40.5068,
+    "description": "",
+    "image": "assets/images/tellmukhadhah.jpg"
+  },
+  {
+    "name": "TELL KHARITAH",
+    "lat": 36.5668,
+    "lng": 40.4903,
+    "description": "",
+    "image": "assets/images/tellkharitah.jpg"
+  },
+  {
+    "name": "LOWER TELL RUMMAN",
+    "lat": 36.5746,
+    "lng": 40.4856,
+    "description": "",
+    "image": "assets/images/lowertellrumman.jpg"
+  },
+  {
+    "name": "QABR SHAMYA",
+    "lat": 36.5724,
+    "lng": 40.4721,
+    "description": "",
+    "image": "assets/images/qabrshamya.jpg"
+  },
+  {
+    "name": "UPPER TELL RUMMAN",
+    "lat": 36.577,
+    "lng": 40.4789,
+    "description": "",
+    "image": "assets/images/uppertellrumman.jpg"
+  },
+  {
+    "name": "TELL BAZ",
+    "lat": 36.5756,
+    "lng": 40.4689,
+    "description": "",
+    "image": "assets/images/tellbaz.jpg"
+  },
+  {
+    "name": "TELL JAZIRAH",
+    "lat": 36.5787,
+    "lng": 40.4586,
+    "description": "",
+    "image": "assets/images/telljazirah.jpg"
+  },
+  {
+    "name": "TELL BALO‘AH",
+    "lat": 36.5793,
+    "lng": 40.4474,
+    "description": "",
+    "image": "assets/images/tellbalo‘ah.jpg"
+  },
+  {
+    "name": "TELL NAJMAH",
+    "lat": 36.5869,
+    "lng": 40.4496,
+    "description": "",
+    "image": "assets/images/tellnajmah.jpg"
+  },
+  {
+    "name": "TELL DAMSHIJ",
+    "lat": 36.5911,
+    "lng": 40.4334,
+    "description": "",
+    "image": "assets/images/telldamshij.jpg"
+  },
+  {
+    "name": "TELL FAYDHAH",
+    "lat": 36.5931,
+    "lng": 40.4225,
+    "description": "",
+    "image": "assets/images/tellfaydhah.jpg"
+  },
+  {
+    "name": "TELL JADAYA",
+    "lat": 36.5986,
+    "lng": 40.4151,
+    "description": "",
+    "image": "assets/images/telljadaya.jpg"
+  },
+  {
+    "name": "TELL GORAN",
+    "lat": 36.5961,
+    "lng": 40.4086,
+    "description": "",
+    "image": "assets/images/tellgoran.jpg"
+  },
+  {
+    "name": "TELL MISAS",
+    "lat": 36.6085,
+    "lng": 40.3999,
+    "description": "",
+    "image": "assets/images/tellmisas.jpg"
+  },
+  {
+    "name": "ABU TINAH",
+    "lat": 36.6049,
+    "lng": 40.3944,
+    "description": "",
+    "image": "assets/images/abutinah.jpg"
+  },
+  {
+    "name": "TELL MAGHAS",
+    "lat": 36.6153,
+    "lng": 40.3882,
+    "description": "",
+    "image": "assets/images/tellmaghas.jpg"
+  },
+  {
+    "name": "TELL TAL‘AH",
+    "lat": 36.6203,
+    "lng": 40.3725,
+    "description": "",
+    "image": "assets/images/telltal‘ah.jpg"
+  },
+  {
+    "name": "TELL HUFYAN",
+    "lat": 36.6292,
+    "lng": 40.3713,
+    "description": "",
+    "image": "assets/images/tellhufyan.jpg"
+  },
+  {
+    "name": "TELL SHAMIRAN",
+    "lat": 36.639,
+    "lng": 40.3567,
+    "description": "",
+    "image": "assets/images/tellshamiran.jpg"
+  },
+  {
+    "name": "TELL NASRI",
+    "lat": 36.6401,
+    "lng": 40.3681,
+    "description": "",
+    "image": "assets/images/tellnasri.jpg"
+  },
+  {
+    "name": "TELL TAMR",
+    "lat": 36.6562,
+    "lng": 40.371,
+    "description": "",
+    "image": "assets/images/telltamr.jpg"
+  },
+  {
+    "name": "TELL AHMAR",
+    "lat": 36.6675,
+    "lng": 40.3691,
+    "description": "",
+    "image": "assets/images/tellahmar.jpg"
+  },
+  {
+    "name": "TELL JUM‘AH",
+    "lat": 36.6637,
+    "lng": 40.342,
+    "description": "",
+    "image": "assets/images/telljum‘ah.jpg"
+  },
+  {
+    "name": "TELL KAYFCHI",
+    "lat": 36.6697,
+    "lng": 40.335,
+    "description": "",
+    "image": "assets/images/tellkayfchi.jpg"
+  },
+  {
+    "name": "UMM AL KAYF",
+    "lat": 36.6762,
+    "lng": 40.32,
+    "description": "",
+    "image": "assets/images/ummalkayf.jpg"
+  },
+  {
+    "name": "UMM WAGHAFAH",
+    "lat": 36.663,
+    "lng": 40.2907,
+    "description": "",
+    "image": "assets/images/ummwaghafah.jpg"
+  },
+  {
+    "name": "TELL KHALAF",
+    "lat": 36.8232,
+    "lng": 40.0389,
+    "description": "",
+    "image": "assets/images/tellkhalaf.jpg"
+  },
+  {
+    "name": "QABRE HEWORE",
+    "lat": 37.028,
+    "lng": 41.5479,
+    "description": "",
+    "image": "assets/images/qabrehewore.jpg"
+  },
+  {
+    "name": "DAYRIK",
+    "lat": 37.1764,
+    "lng": 42.1396,
+    "description": "",
+    "image": "assets/images/dayrik.jpg"
+  },
+  {
+    "name": "MUSAKAN",
+    "lat": 37.1772,
+    "lng": 43.2969,
+    "description": "",
+    "image": "assets/images/musakan.jpg"
+  },
+  {
+    "name": "DARGELI",
+    "lat": 37.1695,
+    "lng": 43.315,
+    "description": "",
+    "image": "assets/images/dargeli.jpg"
+  },
+  {
+    "name": "MINYĀNISH",
+    "lat": 37.3133,
+    "lng": 43.4699,
+    "description": "",
+    "image": "assets/images/minyānish.jpg"
+  },
+  {
+    "name": "BERIJAYE",
+    "lat": 37.3291,
+    "lng": 43.6507,
+    "description": "",
+    "image": "assets/images/berijaye.jpg"
+  },
+  {
+    "name": "TKHUMA GAWAYA",
+    "lat": 37.3364,
+    "lng": 43.6885,
+    "description": "",
+    "image": "assets/images/tkhumagawaya.jpg"
+  },
+  {
+    "name": "GUNDIKTHA",
+    "lat": 37.336,
+    "lng": 43.7239,
+    "description": "",
+    "image": "assets/images/gundiktha.jpg"
+  },
+  {
+    "name": "IRK",
+    "lat": 37.5698,
+    "lng": 43.77,
+    "description": "",
+    "image": "assets/images/irk.jpg"
+  },
+  {
+    "name": "BE MARIGGO",
+    "lat": 37.4758,
+    "lng": 43.5279,
+    "description": "",
+    "image": "assets/images/bemariggo.jpg"
+  },
+  {
+    "name": "PIRZALAN",
+    "lat": 37.5176,
+    "lng": 44.2943,
+    "description": "",
+    "image": "assets/images/pirzalan.jpg"
+  },
+  {
+    "name": "NEHRI",
+    "lat": 37.2901,
+    "lng": 44.52,
+    "description": "",
+    "image": "assets/images/nehri.jpg"
+  },
+  {
+    "name": "UPPER ZARANIS",
+    "lat": 37.660348,
+    "lng": 43.54178,
+    "description": "",
+    "image": "assets/images/upperzaranis.jpg"
+  },
+  {
+    "name": "LOWER ZARANIS",
+    "lat": 37.652704,
+    "lng": 43.540878,
+    "description": "",
+    "image": "assets/images/lowerzaranis.jpg"
+  },
+  {
+    "name": "MAZRA",
+    "lat": 37.3315,
+    "lng": 43.7151,
+    "description": "",
+    "image": "assets/images/mazra.jpg"
+  },
+  {
+    "name": "MARGEH",
+    "lat": 37.3092,
+    "lng": 43.4888,
+    "description": "",
+    "image": "assets/images/margeh.jpg"
+  },
+  {
+    "name": "BE DARAYE",
+    "lat": 37.4664,
+    "lng": 43.7142,
+    "description": "",
+    "image": "assets/images/bedaraye.jpg"
+  },
+  {
+    "name": "BE BIYYA",
+    "lat": 37.258,
+    "lng": 43.6375,
+    "description": "",
+    "image": "assets/images/bebiyya.jpg"
+  },
+  {
+    "name": "QIYYAT",
+    "lat": 37.573,
+    "lng": 44.1428,
+    "description": "",
+    "image": "assets/images/qiyyat.jpg"
+  },
+  {
+    "name": "ZIZAN",
+    "lat": 37.4988,
+    "lng": 44.3283,
+    "description": "",
+    "image": "assets/images/zizan.jpg"
+  },
+  {
+    "name": "MERQANOSH",
+    "lat": 37.2203,
+    "lng": 43.8491,
+    "description": "",
+    "image": "assets/images/merqanosh.jpg"
+  },
+  {
+    "name": "MAQSUDAWA",
+    "lat": 37.5361,
+    "lng": 44.29,
+    "description": "",
+    "image": "assets/images/maqsudawa.jpg"
+  },
+  {
+    "name": "KOH",
+    "lat": 37.4791,
+    "lng": 43.48,
+    "description": "",
+    "image": "assets/images/koh.jpg"
+  },
+  {
+    "name": "SHMUNINIS",
+    "lat": 37.7415,
+    "lng": 43.799,
+    "description": "",
+    "image": "assets/images/shmuninis.jpg"
+  },
+  {
+    "name": "URISHA",
+    "lat": 37.543,
+    "lng": 44.0662,
+    "description": "",
+    "image": "assets/images/urisha.jpg"
+  },
+  {
+    "name": "CHAMBA D BE SUSINA",
+    "lat": 37.3439,
+    "lng": 43.5123,
+    "description": "",
+    "image": "assets/images/chambadbesusina.jpg"
+  },
+  {
+    "name": "SAWRA",
+    "lat": 38.179,
+    "lng": 44.7283,
+    "description": "",
+    "image": "assets/images/sawra.jpg"
+  },
+  {
+    "name": "KHANAGA",
+    "lat": 38.1503,
+    "lng": 44.7248,
+    "description": "",
+    "image": "assets/images/khanaga.jpg"
+  },
+  {
+    "name": "GULIZAN",
+    "lat": 38.1462,
+    "lng": 44.7232,
+    "description": "",
+    "image": "assets/images/gulizan.jpg"
+  },
+  {
+    "name": "DIGALAH",
+    "lat": 37.5525,
+    "lng": 45.1091,
+    "description": "",
+    "image": "assets/images/digalah.jpg"
+  },
+  {
+    "name": "CHARBASH",
+    "lat": 37.5613,
+    "lng": 45.0577,
+    "description": "",
+    "image": "assets/images/charbash.jpg"
+  },
+  {
+    "name": "SARDARUD",
+    "lat": 37.4097,
+    "lng": 45.2222,
+    "description": "",
+    "image": "assets/images/sardarud.jpg"
+  },
+  {
+    "name": "TAYBATTAN",
+    "lat": 37.5154,
+    "lng": 44.8064,
+    "description": "",
+    "image": "assets/images/taybattan.jpg"
+  },
+  {
+    "name": "SANGAR D BURZU KHAN",
+    "lat": 37.5574,
+    "lng": 45.0386,
+    "description": "",
+    "image": "assets/images/sangardburzukhan.jpg"
+  },
+  {
+    "name": "SANGAR D BAGLARBAGE",
+    "lat": 37.5496,
+    "lng": 45.035,
+    "description": "",
+    "image": "assets/images/sangardbaglarbage.jpg"
+  },
+  {
+    "name": "CHAMBA D MALIK",
+    "lat": 37.3984,
+    "lng": 43.4924,
+    "description": "",
+    "image": "assets/images/chambadmalik.jpg"
+  },
+  {
+    "name": "LOWER AROSH",
+    "lat": 37.3275,
+    "lng": 43.2805,
+    "description": "",
+    "image": "assets/images/lowerarosh.jpg"
+  },
+  {
+    "name": "SARAMUS",
+    "lat": 37.6154,
+    "lng": 43.8786,
+    "description": "",
+    "image": "assets/images/saramus.jpg"
+  },
+  {
+    "name": "KORE GAVANA",
+    "lat": 36.9298,
+    "lng": 43.1524,
+    "description": "",
+    "image": "assets/images/koregavana.jpg"
+  },
+  {
+    "name": "TELL TAWIL",
+    "lat": 36.6634,
+    "lng": 40.2857,
+    "description": "",
+    "image": "assets/images/telltawil.jpg"
+  },
+  {
+    "name": "KOSE",
+    "lat": 37.6778,
+    "lng": 45.0012,
+    "description": "",
+    "image": "assets/images/kose.jpg"
+  },
+  {
+    "name": "NAZE",
+    "lat": 37.6795,
+    "lng": 44.9744,
+    "description": "",
+    "image": "assets/images/naze.jpg"
+  },
+  {
+    "name": "HAYDARLU",
+    "lat": 37.4746,
+    "lng": 45.0458,
+    "description": "",
+    "image": "assets/images/haydarlu.jpg"
+  },
+  {
+    "name": "MAR SARGIS",
+    "lat": 37.4892,
+    "lng": 45.0228,
+    "description": "",
+    "image": "assets/images/marsargis.jpg"
+  },
+  {
+    "name": "JANVISLU",
+    "lat": 37.5035,
+    "lng": 45.0285,
+    "description": "",
+    "image": "assets/images/janvislu.jpg"
+  },
+  {
+    "name": "HAWDIYAN",
+    "lat": 36.6968,
+    "lng": 44.4746,
+    "description": "",
+    "image": "assets/images/hawdiyan.jpg"
+  },
+  {
+    "name": "ISPIN",
+    "lat": 37.7095,
+    "lng": 43.8134,
+    "description": "",
+    "image": "assets/images/ispin.jpg"
+  },
+  {
+    "name": "SALLEN",
+    "lat": 37.6971,
+    "lng": 43.834,
+    "description": "",
+    "image": "assets/images/sallen.jpg"
+  },
+  {
+    "name": "TARMIL",
+    "lat": 37.681,
+    "lng": 43.7452,
+    "description": "",
+    "image": "assets/images/tarmil.jpg"
+  },
+  {
+    "name": "KHARALUN",
+    "lat": 38.0811,
+    "lng": 44.1408,
+    "description": "",
+    "image": "assets/images/kharalun.jpg"
+  },
+  {
+    "name": "ZERINI",
+    "lat": 37.4667,
+    "lng": 43.9448,
+    "description": "",
+    "image": "assets/images/zerini.jpg"
+  },
+  {
+    "name": "BE BOQRA",
+    "lat": 37.4409,
+    "lng": 43.9623,
+    "description": "",
+    "image": "assets/images/beboqra.jpg"
+  },
+  {
+    "name": "TELANA",
+    "lat": 37.4417,
+    "lng": 43.9663,
+    "description": "",
+    "image": "assets/images/telana.jpg"
+  },
+  {
+    "name": "BUBAWA",
+    "lat": 37.4204,
+    "lng": 44.0986,
+    "description": "",
+    "image": "assets/images/bubawa.jpg"
+  },
+  {
+    "name": "URE",
+    "lat": 37.4362,
+    "lng": 43.9583,
+    "description": "",
+    "image": "assets/images/ure.jpg"
+  },
+  {
+    "name": "ZIR",
+    "lat": 37.4175,
+    "lng": 44.0044,
+    "description": "",
+    "image": "assets/images/zir.jpg"
+  },
+  {
+    "name": "ALSAN",
+    "lat": 37.4819,
+    "lng": 43.906,
+    "description": "",
+    "image": "assets/images/alsan.jpg"
+  },
+  {
+    "name": "ARGAB",
+    "lat": 37.4285,
+    "lng": 43.8746,
+    "description": "",
+    "image": "assets/images/argab.jpg"
+  },
+  {
+    "name": "GULAZOR",
+    "lat": 37.5584,
+    "lng": 43.9489,
+    "description": "",
+    "image": "assets/images/gulazor.jpg"
+  },
+  {
+    "name": "DARAWA",
+    "lat": 37.5603,
+    "lng": 44.1208,
+    "description": "",
+    "image": "assets/images/darawa.jpg"
+  },
+  {
+    "name": "AWERT",
+    "lat": 37.6713,
+    "lng": 44.0927,
+    "description": "",
+    "image": "assets/images/awert.jpg"
+  },
+  {
+    "name": "DARRES",
+    "lat": 37.6693,
+    "lng": 44.0356,
+    "description": "",
+    "image": "assets/images/darres.jpg"
+  },
+  {
+    "name": "BALULAN",
+    "lat": 37.5469,
+    "lng": 44.7685,
+    "description": "",
+    "image": "assets/images/balulan.jpg"
+  },
+  {
+    "name": "HAKKE",
+    "lat": 37.5713,
+    "lng": 44.7431,
+    "description": "",
+    "image": "assets/images/hakke.jpg"
+  },
+  {
+    "name": "PAGE",
+    "lat": 37.5879,
+    "lng": 44.5932,
+    "description": "",
+    "image": "assets/images/page.jpg"
+  },
+  {
+    "name": "IYIL",
+    "lat": 37.599,
+    "lng": 44.5628,
+    "description": "",
+    "image": "assets/images/iyil.jpg"
+  },
+  {
+    "name": "TULLUN",
+    "lat": 37.4993,
+    "lng": 44.787,
+    "description": "",
+    "image": "assets/images/tullun.jpg"
+  },
+  {
+    "name": "ASNAKH",
+    "lat": 37.3549,
+    "lng": 42.7886,
+    "description": "",
+    "image": "assets/images/asnakh.jpg"
+  },
+  {
+    "name": "UMRA D MAR ATHQIN",
+    "lat": 37.3264,
+    "lng": 42.7995,
+    "description": "",
+    "image": "assets/images/umradmarathqin.jpg"
+  },
+  {
+    "name": "UMRA D MAR SORISHO",
+    "lat": 37.4015,
+    "lng": 42.7616,
+    "description": "",
+    "image": "assets/images/umradmarsorisho.jpg"
+  },
+  {
+    "name": "BE SPIN",
+    "lat": 37.334,
+    "lng": 42.5698,
+    "description": "",
+    "image": "assets/images/bespin.jpg"
+  },
+  {
+    "name": "ALTUN",
+    "lat": 37.472,
+    "lng": 42.6956,
+    "description": "",
+    "image": "assets/images/altun.jpg"
+  },
+  {
+    "name": "BARABAYTA",
+    "lat": 37.2395,
+    "lng": 42.1642,
+    "description": "",
+    "image": "assets/images/barabayta.jpg"
+  },
+  {
+    "name": "BIRA KAPRA",
+    "lat": 36.8626,
+    "lng": 44.0179,
+    "description": "",
+    "image": "assets/images/birakapra.jpg"
+  },
+  {
+    "name": "UPPER CHAHRA",
+    "lat": 38.0781,
+    "lng": 44.5999,
+    "description": "",
+    "image": "assets/images/upperchahra.jpg"
+  },
+  {
+    "name": "LOWER CHAHRA",
+    "lat": 38.0777,
+    "lng": 44.6119,
+    "description": "",
+    "image": "assets/images/lowerchahra.jpg"
+  },
+  {
+    "name": "ZIWAJUQ",
+    "lat": 38.1139,
+    "lng": 44.7642,
+    "description": "",
+    "image": "assets/images/ziwajuq.jpg"
+  },
+  {
+    "name": "ULA",
+    "lat": 38.1519,
+    "lng": 44.7462,
+    "description": "",
+    "image": "assets/images/ula.jpg"
+  },
+  {
+    "name": "PATAVUR",
+    "lat": 38.1511,
+    "lng": 44.7043,
+    "description": "",
+    "image": "assets/images/patavur.jpg"
+  },
+  {
+    "name": "KOHNA SHAHR",
+    "lat": 38.1767,
+    "lng": 44.6925,
+    "description": "",
+    "image": "assets/images/kohnashahr.jpg"
+  },
+  {
+    "name": "DILIMAN",
+    "lat": 38.1945,
+    "lng": 44.7734,
+    "description": "",
+    "image": "assets/images/diliman.jpg"
+  },
+  {
+    "name": "AHRIWAN",
+    "lat": 38.199,
+    "lng": 44.7653,
+    "description": "",
+    "image": "assets/images/ahriwan.jpg"
+  },
+  {
+    "name": "PAYAJUQ",
+    "lat": 38.1886,
+    "lng": 44.8261,
+    "description": "",
+    "image": "assets/images/payajuq.jpg"
+  },
+  {
+    "name": "QALASAR",
+    "lat": 38.1849,
+    "lng": 44.8404,
+    "description": "",
+    "image": "assets/images/qalasar.jpg"
+  },
+  {
+    "name": "AGHA ISMA‘IL",
+    "lat": 38.1654,
+    "lng": 44.845,
+    "description": "",
+    "image": "assets/images/aghaisma‘il.jpg"
+  },
+  {
+    "name": "AKHTAKHANA",
+    "lat": 38.1835,
+    "lng": 44.8831,
+    "description": "",
+    "image": "assets/images/akhtakhana.jpg"
+  },
+  {
+    "name": "YURSHANLU",
+    "lat": 38.2221,
+    "lng": 44.9711,
+    "description": "",
+    "image": "assets/images/yurshanlu.jpg"
+  },
+  {
+    "name": "KHUSRAWA (KHOSRO ABAD)",
+    "lat": 38.1665,
+    "lng": 44.736,
+    "description": "",
+    "image": "assets/images/khusrawa(khosroabad).jpg"
+  },
+  {
+    "name": "BABARUD",
+    "lat": 37.4021,
+    "lng": 45.2343,
+    "description": "",
+    "image": "assets/images/babarud.jpg"
+  },
+  {
+    "name": "DARBARUD",
+    "lat": 37.4055,
+    "lng": 45.2222,
+    "description": "",
+    "image": "assets/images/darbarud.jpg"
+  },
+  {
+    "name": "NAYBIN",
+    "lat": 37.404,
+    "lng": 45.2338,
+    "description": "",
+    "image": "assets/images/naybin.jpg"
+  },
+  {
+    "name": "QURTAPAH",
+    "lat": 37.4679,
+    "lng": 45.2118,
+    "description": "",
+    "image": "assets/images/qurtapah.jpg"
+  },
+  {
+    "name": "SHAHIN ABAD",
+    "lat": 37.4716,
+    "lng": 45.2118,
+    "description": "",
+    "image": "assets/images/shahinabad.jpg"
+  },
+  {
+    "name": "TAKKYA",
+    "lat": 37.4568,
+    "lng": 45.2557,
+    "description": "",
+    "image": "assets/images/takkya.jpg"
+  },
+  {
+    "name": "SHAMSHAJIYAN",
+    "lat": 37.4611,
+    "lng": 45.1689,
+    "description": "",
+    "image": "assets/images/shamshajiyan.jpg"
+  },
+  {
+    "name": "SARALAN",
+    "lat": 37.4399,
+    "lng": 45.1515,
+    "description": "",
+    "image": "assets/images/saralan.jpg"
+  },
+  {
+    "name": "QARAH AGHACH",
+    "lat": 37.4706,
+    "lng": 45.1444,
+    "description": "",
+    "image": "assets/images/qarahaghach.jpg"
+  },
+  {
+    "name": "QARALARE",
+    "lat": 37.441,
+    "lng": 45.1937,
+    "description": "",
+    "image": "assets/images/qaralare.jpg"
+  },
+  {
+    "name": "YAGHMURALU",
+    "lat": 37.697,
+    "lng": 45.1128,
+    "description": "",
+    "image": "assets/images/yaghmuralu.jpg"
+  },
+  {
+    "name": "NAKHICHEVAN TAPAH",
+    "lat": 37.7119,
+    "lng": 45.1032,
+    "description": "",
+    "image": "assets/images/nakhichevantapah.jpg"
+  },
+  {
+    "name": "BADILBU",
+    "lat": 37.6669,
+    "lng": 45.0021,
+    "description": "",
+    "image": "assets/images/badilbu.jpg"
+  },
+  {
+    "name": "QIZIL ASHIQ",
+    "lat": 37.6223,
+    "lng": 45.0592,
+    "description": "",
+    "image": "assets/images/qizilashiq.jpg"
+  },
+  {
+    "name": "GARDABAD",
+    "lat": 37.6388,
+    "lng": 45.0519,
+    "description": "",
+    "image": "assets/images/gardabad.jpg"
+  },
+  {
+    "name": "QARAQIZ",
+    "lat": 37.7472,
+    "lng": 45.1449,
+    "description": "",
+    "image": "assets/images/qaraqiz.jpg"
+  },
+  {
+    "name": "‘ABDULLAH KANDEH",
+    "lat": 37.7849,
+    "lng": 45.1688,
+    "description": "",
+    "image": "assets/images/‘abdullahkandeh.jpg"
+  },
+  {
+    "name": "MUSHAWA",
+    "lat": 37.7317,
+    "lng": 45.1976,
+    "description": "",
+    "image": "assets/images/mushawa.jpg"
+  },
+  {
+    "name": "IKI AGHACH",
+    "lat": 37.7258,
+    "lng": 45.1388,
+    "description": "",
+    "image": "assets/images/ikiaghach.jpg"
+  },
+  {
+    "name": "ABAJALU",
+    "lat": 37.7274,
+    "lng": 45.151,
+    "description": "",
+    "image": "assets/images/abajalu.jpg"
+  },
+  {
+    "name": "MAR NUKHA",
+    "lat": 37.7299,
+    "lng": 45.2148,
+    "description": "",
+    "image": "assets/images/marnukha.jpg"
+  },
+  {
+    "name": "UPPER JENIZA",
+    "lat": 37.6657,
+    "lng": 44.9612,
+    "description": "",
+    "image": "assets/images/upperjeniza.jpg"
+  },
+  {
+    "name": "LOWER JENIZA",
+    "lat": 37.6619,
+    "lng": 44.9668,
+    "description": "",
+    "image": "assets/images/lowerjeniza.jpg"
+  },
+  {
+    "name": "QAL‘A D QASHA AVNER",
+    "lat": 37.6644,
+    "lng": 44.9292,
+    "description": "",
+    "image": "assets/images/qal‘adqashaavner.jpg"
+  },
+  {
+    "name": "TAKKALU",
+    "lat": 37.594,
+    "lng": 45.1052,
+    "description": "",
+    "image": "assets/images/takkalu.jpg"
+  },
+  {
+    "name": "IRYAWAI",
+    "lat": 37.5797,
+    "lng": 45.1207,
+    "description": "",
+    "image": "assets/images/iryawai.jpg"
+  },
+  {
+    "name": "BURASHAN",
+    "lat": 37.5773,
+    "lng": 45.1454,
+    "description": "",
+    "image": "assets/images/burashan.jpg"
+  },
+  {
+    "name": "CHICHAKLU",
+    "lat": 37.624,
+    "lng": 45.1271,
+    "description": "",
+    "image": "assets/images/chichaklu.jpg"
+  },
+  {
+    "name": "ALWACH",
+    "lat": 37.5655,
+    "lng": 45.021,
+    "description": "",
+    "image": "assets/images/alwach.jpg"
+  },
+  {
+    "name": "DIZZA D AGHA ‘ALI BEG",
+    "lat": 37.5319,
+    "lng": 45.0374,
+    "description": "",
+    "image": "assets/images/dizzadagha‘alibeg.jpg"
+  },
+  {
+    "name": "DIZZA D AGHA SULAYMAN",
+    "lat": 37.5723,
+    "lng": 45.0694,
+    "description": "",
+    "image": "assets/images/dizzadaghasulayman.jpg"
+  },
+  {
+    "name": "BE ZWAGE",
+    "lat": 37.5088,
+    "lng": 45.029,
+    "description": "",
+    "image": "assets/images/bezwage.jpg"
+  },
+  {
+    "name": "‘ALI KOME",
+    "lat": 37.5094,
+    "lng": 45.0522,
+    "description": "",
+    "image": "assets/images/‘alikome.jpg"
+  },
+  {
+    "name": "WAZIRAWA",
+    "lat": 37.5339,
+    "lng": 45.1237,
+    "description": "",
+    "image": "assets/images/wazirawa.jpg"
+  },
+  {
+    "name": "DIZZA D KHYARE",
+    "lat": 37.5345,
+    "lng": 45.1119,
+    "description": "",
+    "image": "assets/images/dizzadkhyare.jpg"
+  },
+  {
+    "name": "CHAHRAGUSHE",
+    "lat": 37.5443,
+    "lng": 45.1594,
+    "description": "",
+    "image": "assets/images/chahragushe.jpg"
+  },
+  {
+    "name": "QARASANLU",
+    "lat": 37.5496,
+    "lng": 45.1791,
+    "description": "",
+    "image": "assets/images/qarasanlu.jpg"
+  },
+  {
+    "name": "TARMANE",
+    "lat": 37.5462,
+    "lng": 45.1635,
+    "description": "",
+    "image": "assets/images/tarmane.jpg"
+  },
+  {
+    "name": "BURHANLU",
+    "lat": 37.4999,
+    "lng": 45.1476,
+    "description": "",
+    "image": "assets/images/burhanlu.jpg"
+  },
+  {
+    "name": "SIRE",
+    "lat": 37.4696,
+    "lng": 45.0345,
+    "description": "",
+    "image": "assets/images/sire.jpg"
+  },
+  {
+    "name": "DARBAND",
+    "lat": 37.4809,
+    "lng": 44.7766,
+    "description": "",
+    "image": "assets/images/darband.jpg"
+  },
+  {
+    "name": "CHAMMANE",
+    "lat": 37.4915,
+    "lng": 44.7802,
+    "description": "",
+    "image": "assets/images/chammane.jpg"
+  },
+  {
+    "name": "DOSTALAN",
+    "lat": 37.5609,
+    "lng": 44.7624,
+    "description": "",
+    "image": "assets/images/dostalan.jpg"
+  },
+  {
+    "name": "SHIBANE",
+    "lat": 37.5396,
+    "lng": 44.8078,
+    "description": "",
+    "image": "assets/images/shibane.jpg"
+  },
+  {
+    "name": "TULAKKE",
+    "lat": 37.5223,
+    "lng": 44.7986,
+    "description": "",
+    "image": "assets/images/tulakke.jpg"
+  },
+  {
+    "name": "QULUNJE",
+    "lat": 37.9349,
+    "lng": 44.9903,
+    "description": "",
+    "image": "assets/images/qulunje.jpg"
+  },
+  {
+    "name": "GANGACHIN",
+    "lat": 37.7572,
+    "lng": 44.6526,
+    "description": "",
+    "image": "assets/images/gangachin.jpg"
+  },
+  {
+    "name": "GALLIYA D MALIK BARKHO",
+    "lat": 37.2994,
+    "lng": 43.6402,
+    "description": "",
+    "image": "assets/images/galliyadmalikbarkho.jpg"
+  },
+  {
+    "name": "UPPER ARTUN",
+    "lat": 37.909,
+    "lng": 42.3608,
+    "description": "",
+    "image": "assets/images/upperartun.jpg"
+  },
+  {
+    "name": "RABBANOK",
+    "lat": 37.8899,
+    "lng": 42.3879,
+    "description": "",
+    "image": "assets/images/rabbanok.jpg"
+  },
+  {
+    "name": "RUBARIYAH",
+    "lat": 37.8808,
+    "lng": 42.432,
+    "description": "",
+    "image": "assets/images/rubariyah.jpg"
+  },
+  {
+    "name": "SARHAL",
+    "lat": 37.895,
+    "lng": 42.4074,
+    "description": "",
+    "image": "assets/images/sarhal.jpg"
+  },
+  {
+    "name": "DEH RABBAN",
+    "lat": 37.7036,
+    "lng": 42.5484,
+    "description": "",
+    "image": "assets/images/dehrabban.jpg"
+  },
+  {
+    "name": "DEH MAZIN",
+    "lat": 37.6948,
+    "lng": 42.5468,
+    "description": "",
+    "image": "assets/images/dehmazin.jpg"
+  },
+  {
+    "name": "SADAKH",
+    "lat": 37.866,
+    "lng": 42.0214,
+    "description": "",
+    "image": "assets/images/sadakh.jpg"
+  },
+  {
+    "name": "AWANIS",
+    "lat": 37.8116,
+    "lng": 42.1772,
+    "description": "",
+    "image": "assets/images/awanis.jpg"
+  },
+  {
+    "name": "TIRAN",
+    "lat": 37.8402,
+    "lng": 42.1348,
+    "description": "",
+    "image": "assets/images/tiran.jpg"
+  },
+  {
+    "name": "MARSHANIS",
+    "lat": 37.7526,
+    "lng": 42.4474,
+    "description": "",
+    "image": "assets/images/marshanis.jpg"
+  },
+  {
+    "name": "GALWAYE",
+    "lat": 37.7488,
+    "lng": 42.442,
+    "description": "",
+    "image": "assets/images/galwaye.jpg"
+  },
+  {
+    "name": "AZAR",
+    "lat": 37.772,
+    "lng": 42.4617,
+    "description": "",
+    "image": "assets/images/azar.jpg"
+  },
+  {
+    "name": "MARANISH",
+    "lat": 37.7561,
+    "lng": 42.4536,
+    "description": "",
+    "image": "assets/images/maranish.jpg"
+  },
+  {
+    "name": "BAZNAYE",
+    "lat": 37.4876,
+    "lng": 42.7108,
+    "description": "",
+    "image": "assets/images/baznaye.jpg"
+  },
+  {
+    "name": "SHARNAKH",
+    "lat": 37.5221,
+    "lng": 42.4564,
+    "description": "",
+    "image": "assets/images/sharnakh.jpg"
+  },
+  {
+    "name": "DADAR",
+    "lat": 37.3145,
+    "lng": 42.4171,
+    "description": "",
+    "image": "assets/images/dadar.jpg"
+  },
+  {
+    "name": "SHAKH",
+    "lat": 37.3679,
+    "lng": 42.362,
+    "description": "",
+    "image": "assets/images/shakh.jpg"
+  },
+  {
+    "name": "WASTA",
+    "lat": 37.2035,
+    "lng": 42.5391,
+    "description": "",
+    "image": "assets/images/wasta.jpg"
+  },
+  {
+    "name": "TELL QABBIN",
+    "lat": 37.1992,
+    "lng": 42.5192,
+    "description": "",
+    "image": "assets/images/tellqabbin.jpg"
+  },
+  {
+    "name": "NAHRWAN",
+    "lat": 37.2112,
+    "lng": 42.4186,
+    "description": "",
+    "image": "assets/images/nahrwan.jpg"
+  },
+  {
+    "name": "RUBAHIYAH",
+    "lat": 37.2209,
+    "lng": 42.345,
+    "description": "",
+    "image": "assets/images/rubahiyah.jpg"
+  },
+  {
+    "name": "BILLON",
+    "lat": 37.3819,
+    "lng": 42.8374,
+    "description": "",
+    "image": "assets/images/billon.jpg"
+  },
+  {
+    "name": "IQROR",
+    "lat": 37.3964,
+    "lng": 42.9114,
+    "description": "",
+    "image": "assets/images/iqror.jpg"
+  },
+  {
+    "name": "SAMSIKKE",
+    "lat": 37.4199,
+    "lng": 44.1085,
+    "description": "",
+    "image": "assets/images/samsikke.jpg"
+  },
+  {
+    "name": "MATA D URYAYE",
+    "lat": 37.4155,
+    "lng": 44.111,
+    "description": "",
+    "image": "assets/images/mataduryaye.jpg"
+  },
+  {
+    "name": "MUSPIRAN",
+    "lat": 37.4132,
+    "lng": 44.1151,
+    "description": "",
+    "image": "assets/images/muspiran.jpg"
+  },
+  {
+    "name": "SARPIL",
+    "lat": 37.4405,
+    "lng": 44.0819,
+    "description": "",
+    "image": "assets/images/sarpil.jpg"
+  },
+  {
+    "name": "SAT",
+    "lat": 37.318,
+    "lng": 44.1739,
+    "description": "",
+    "image": "assets/images/sat.jpg"
+  },
+  {
+    "name": "NHAR DUSHA",
+    "lat": 37.4098,
+    "lng": 44.5262,
+    "description": "",
+    "image": "assets/images/nhardusha.jpg"
+  },
+  {
+    "name": "HARUNAN",
+    "lat": 37.4186,
+    "lng": 44.487,
+    "description": "",
+    "image": "assets/images/harunan.jpg"
+  },
+  {
+    "name": "BALAKHAN",
+    "lat": 37.4279,
+    "lng": 44.4849,
+    "description": "",
+    "image": "assets/images/balakhan.jpg"
+  },
+  {
+    "name": "SARDASHT",
+    "lat": 37.4475,
+    "lng": 44.4138,
+    "description": "",
+    "image": "assets/images/sardasht.jpg"
+  },
+  {
+    "name": "SINAWA",
+    "lat": 37.4586,
+    "lng": 44.3086,
+    "description": "",
+    "image": "assets/images/sinawa.jpg"
+  },
+  {
+    "name": "MAMMIKKAN",
+    "lat": 37.5159,
+    "lng": 44.1828,
+    "description": "",
+    "image": "assets/images/mammikkan.jpg"
+  },
+  {
+    "name": "CHAR DIWAR",
+    "lat": 37.5141,
+    "lng": 44.322,
+    "description": "",
+    "image": "assets/images/chardiwar.jpg"
+  },
+  {
+    "name": "WAZIRAWA",
+    "lat": 37.5273,
+    "lng": 44.2507,
+    "description": "",
+    "image": "assets/images/wazirawa.jpg"
+  },
+  {
+    "name": "DARA",
+    "lat": 37.5301,
+    "lng": 44.3549,
+    "description": "",
+    "image": "assets/images/dara.jpg"
+  },
+  {
+    "name": "PAILAN",
+    "lat": 37.5676,
+    "lng": 44.3216,
+    "description": "",
+    "image": "assets/images/pailan.jpg"
+  },
+  {
+    "name": "MANUNAN",
+    "lat": 37.5517,
+    "lng": 44.1593,
+    "description": "",
+    "image": "assets/images/manunan.jpg"
+  },
+  {
+    "name": "KHULKHUS",
+    "lat": 37.6079,
+    "lng": 44.1896,
+    "description": "",
+    "image": "assets/images/khulkhus.jpg"
+  },
+  {
+    "name": "KARPIL",
+    "lat": 37.5702,
+    "lng": 44.1803,
+    "description": "",
+    "image": "assets/images/karpil.jpg"
+  },
+  {
+    "name": "GAGWRAN",
+    "lat": 37.5485,
+    "lng": 44.2235,
+    "description": "",
+    "image": "assets/images/gagwran.jpg"
+  },
+  {
+    "name": "BAZHIRGA",
+    "lat": 37.5641,
+    "lng": 44.2451,
+    "description": "",
+    "image": "assets/images/bazhirga.jpg"
+  },
+  {
+    "name": "ZIRQANIS",
+    "lat": 37.6228,
+    "lng": 44.2435,
+    "description": "",
+    "image": "assets/images/zirqanis.jpg"
+  },
+  {
+    "name": "MAR BHISHU",
+    "lat": 37.578,
+    "lng": 44.6005,
+    "description": "",
+    "image": "assets/images/marbhishu.jpg"
+  },
+  {
+    "name": "BAZHIRGA",
+    "lat": 37.7132,
+    "lng": 44.6029,
+    "description": "",
+    "image": "assets/images/bazhirga.jpg"
+  },
+  {
+    "name": "BASAN",
+    "lat": 37.7054,
+    "lng": 44.4893,
+    "description": "",
+    "image": "assets/images/basan.jpg"
+  },
+  {
+    "name": "BE ZEQTE",
+    "lat": 37.7204,
+    "lng": 44.4562,
+    "description": "",
+    "image": "assets/images/bezeqte.jpg"
+  },
+  {
+    "name": "LOWER KATUNA",
+    "lat": 37.323,
+    "lng": 44.6711,
+    "description": "",
+    "image": "assets/images/lowerkatuna.jpg"
+  },
+  {
+    "name": "UPPER KATUNA",
+    "lat": 37.3324,
+    "lng": 44.6841,
+    "description": "",
+    "image": "assets/images/upperkatuna.jpg"
+  },
+  {
+    "name": "BE BABE",
+    "lat": 37.2812,
+    "lng": 44.5969,
+    "description": "",
+    "image": "assets/images/bebabe.jpg"
+  },
+  {
+    "name": "SHAPATAN",
+    "lat": 37.3214,
+    "lng": 44.5517,
+    "description": "",
+    "image": "assets/images/shapatan.jpg"
+  },
+  {
+    "name": "SURSARE",
+    "lat": 37.373,
+    "lng": 44.5523,
+    "description": "",
+    "image": "assets/images/sursare.jpg"
+  },
+  {
+    "name": "TALANA",
+    "lat": 37.3819,
+    "lng": 44.5991,
+    "description": "",
+    "image": "assets/images/talana.jpg"
+  },
+  {
+    "name": "DURE(NOCHIYA)",
+    "lat": 37.3924,
+    "lng": 44.5349,
+    "description": "",
+    "image": "assets/images/dure(nochiya).jpg"
+  },
+  {
+    "name": "DARIYAN",
+    "lat": 37.3661,
+    "lng": 44.5151,
+    "description": "",
+    "image": "assets/images/dariyan.jpg"
+  },
+  {
+    "name": "DARAWA",
+    "lat": 37.3771,
+    "lng": 44.4453,
+    "description": "",
+    "image": "assets/images/darawa.jpg"
+  },
+  {
+    "name": "DERABANI",
+    "lat": 37.364,
+    "lng": 44.4975,
+    "description": "",
+    "image": "assets/images/derabani.jpg"
+  },
+  {
+    "name": "KHANE D TKHUMA",
+    "lat": 37.3566,
+    "lng": 43.7531,
+    "description": "",
+    "image": "assets/images/khanedtkhuma.jpg"
+  },
+  {
+    "name": "BE KURAYE",
+    "lat": 37.4556,
+    "lng": 43.7333,
+    "description": "",
+    "image": "assets/images/bekuraye.jpg"
+  },
+  {
+    "name": "KOHN",
+    "lat": 37.5038,
+    "lng": 43.7874,
+    "description": "",
+    "image": "assets/images/kohn.jpg"
+  },
+  {
+    "name": "SIRTA",
+    "lat": 37.4466,
+    "lng": 43.5842,
+    "description": "",
+    "image": "assets/images/sirta.jpg"
+  },
+  {
+    "name": "MATHA D MART MARYAM",
+    "lat": 37.4271,
+    "lng": 43.6147,
+    "description": "",
+    "image": "assets/images/mathadmartmaryam.jpg"
+  },
+  {
+    "name": "ZORAWA",
+    "lat": 37.486,
+    "lng": 43.6365,
+    "description": "",
+    "image": "assets/images/zorawa.jpg"
+  },
+  {
+    "name": "MABBUWA",
+    "lat": 37.4404,
+    "lng": 43.5107,
+    "description": "",
+    "image": "assets/images/mabbuwa.jpg"
+  },
+  {
+    "name": "DADOSH",
+    "lat": 37.4518,
+    "lng": 43.5098,
+    "description": "",
+    "image": "assets/images/dadosh.jpg"
+  },
+  {
+    "name": "MAR SAWA",
+    "lat": 37.3728,
+    "lng": 43.5166,
+    "description": "",
+    "image": "assets/images/marsawa.jpg"
+  },
+  {
+    "name": "BE ALLATHA",
+    "lat": 37.3328,
+    "lng": 43.5871,
+    "description": "",
+    "image": "assets/images/beallatha.jpg"
+  },
+  {
+    "name": "MATHA D QASRA",
+    "lat": 37.3342,
+    "lng": 43.5583,
+    "description": "",
+    "image": "assets/images/mathadqasra.jpg"
+  },
+  {
+    "name": "BE RAWOLE",
+    "lat": 37.3103,
+    "lng": 43.5719,
+    "description": "",
+    "image": "assets/images/berawole.jpg"
+  },
+  {
+    "name": "SHURDH",
+    "lat": 37.2876,
+    "lng": 43.5943,
+    "description": "",
+    "image": "assets/images/shurdh.jpg"
+  },
+  {
+    "name": "BE ZIZO",
+    "lat": 37.3331,
+    "lng": 43.5406,
+    "description": "",
+    "image": "assets/images/bezizo.jpg"
+  },
+  {
+    "name": "SIYADHOR",
+    "lat": 37.3405,
+    "lng": 43.509,
+    "description": "",
+    "image": "assets/images/siyadhor.jpg"
+  },
+  {
+    "name": "SARESPIDHON",
+    "lat": 37.3478,
+    "lng": 43.4632,
+    "description": "",
+    "image": "assets/images/sarespidhon.jpg"
+  },
+  {
+    "name": "MALOTA D MALIK",
+    "lat": 37.437,
+    "lng": 43.4876,
+    "description": "",
+    "image": "assets/images/malotadmalik.jpg"
+  },
+  {
+    "name": "GISSA",
+    "lat": 37.3292,
+    "lng": 43.6579,
+    "description": "",
+    "image": "assets/images/gissa.jpg"
+  },
+  {
+    "name": "RAWULA D SALAHBAKAN",
+    "lat": 37.2907,
+    "lng": 43.6115,
+    "description": "",
+    "image": "assets/images/rawuladsalahbakan.jpg"
+  },
+  {
+    "name": "SHIVA REZANE",
+    "lat": 37.2585,
+    "lng": 43.5774,
+    "description": "",
+    "image": "assets/images/shivarezane.jpg"
+  },
+  {
+    "name": "HISH",
+    "lat": 37.203,
+    "lng": 43.8992,
+    "description": "",
+    "image": "assets/images/hish.jpg"
+  },
+  {
+    "name": "ISTIP",
+    "lat": 37.2124,
+    "lng": 43.8803,
+    "description": "",
+    "image": "assets/images/istip.jpg"
+  },
+  {
+    "name": "BIRSIVE",
+    "lat": 37.1909,
+    "lng": 42.8561,
+    "description": "",
+    "image": "assets/images/birsive.jpg"
+  },
+  {
+    "name": "ALANISH",
+    "lat": 37.2943,
+    "lng": 42.8712,
+    "description": "",
+    "image": "assets/images/alanish.jpg"
+  },
+  {
+    "name": "YARDA",
+    "lat": 37.2946,
+    "lng": 42.8314,
+    "description": "",
+    "image": "assets/images/yarda.jpg"
+  },
+  {
+    "name": "CHALLIK",
+    "lat": 37.2547,
+    "lng": 43.1605,
+    "description": "",
+    "image": "assets/images/challik.jpg"
+  },
+  {
+    "name": "MAGHDAL DEWA",
+    "lat": 37.2293,
+    "lng": 42.1404,
+    "description": "",
+    "image": "assets/images/maghdaldewa.jpg"
+  },
+  {
+    "name": "BE KOLE",
+    "lat": 37.024,
+    "lng": 43.9867,
+    "description": "",
+    "image": "assets/images/bekole.jpg"
+  },
+  {
+    "name": "ARDIL",
+    "lat": 37.0749,
+    "lng": 43.9392,
+    "description": "",
+    "image": "assets/images/ardil.jpg"
+  },
+  {
+    "name": "BARZANE",
+    "lat": 36.927,
+    "lng": 44.0429,
+    "description": "",
+    "image": "assets/images/barzane.jpg"
+  },
+  {
+    "name": "ALIHE",
+    "lat": 37.1535,
+    "lng": 43.707,
+    "description": "",
+    "image": "assets/images/alihe.jpg"
+  },
+  {
+    "name": "WELA",
+    "lat": 37.1356,
+    "lng": 43.7162,
+    "description": "",
+    "image": "assets/images/wela.jpg"
+  },
+  {
+    "name": "BASH",
+    "lat": 37.1626,
+    "lng": 43.7225,
+    "description": "",
+    "image": "assets/images/bash.jpg"
+  },
+  {
+    "name": "QARO",
+    "lat": 37.1538,
+    "lng": 43.6869,
+    "description": "",
+    "image": "assets/images/qaro.jpg"
+  },
+  {
+    "name": "DERIGNI",
+    "lat": 37.1309,
+    "lng": 43.5932,
+    "description": "",
+    "image": "assets/images/derigni.jpg"
+  },
+  {
+    "name": "BE BALOKA",
+    "lat": 37.1779,
+    "lng": 43.6018,
+    "description": "",
+    "image": "assets/images/bebaloka.jpg"
+  },
+  {
+    "name": "HELWA",
+    "lat": 37.2185,
+    "lng": 43.5232,
+    "description": "",
+    "image": "assets/images/helwa.jpg"
+  },
+  {
+    "name": "TASHISH",
+    "lat": 37.2174,
+    "lng": 43.2608,
+    "description": "",
+    "image": "assets/images/tashish.jpg"
+  },
+  {
+    "name": "DAWUDIYAH",
+    "lat": 37.0885,
+    "lng": 43.219,
+    "description": "",
+    "image": "assets/images/dawudiyah.jpg"
+  },
+  {
+    "name": "SIMMEL",
+    "lat": 36.861,
+    "lng": 42.8538,
+    "description": "",
+    "image": "assets/images/simmel.jpg"
+  },
+  {
+    "name": "HOR",
+    "lat": 37.3276,
+    "lng": 43.1993,
+    "description": "",
+    "image": "assets/images/hor.jpg"
+  },
+  {
+    "name": "BALEKAN",
+    "lat": 37.6673,
+    "lng": 43.5366,
+    "description": "",
+    "image": "assets/images/balekan.jpg"
+  },
+  {
+    "name": "MARWANAN",
+    "lat": 37.8766,
+    "lng": 43.4549,
+    "description": "",
+    "image": "assets/images/marwanan.jpg"
+  },
+  {
+    "name": "ULAMAN",
+    "lat": 37.8517,
+    "lng": 43.4144,
+    "description": "",
+    "image": "assets/images/ulaman.jpg"
+  },
+  {
+    "name": "HOZE",
+    "lat": 37.8383,
+    "lng": 44.1329,
+    "description": "",
+    "image": "assets/images/hoze.jpg"
+  },
+  {
+    "name": "OZAN",
+    "lat": 37.9613,
+    "lng": 43.9694,
+    "description": "",
+    "image": "assets/images/ozan.jpg"
+  },
+  {
+    "name": "MANGILAWA",
+    "lat": 37.8432,
+    "lng": 44.0755,
+    "description": "",
+    "image": "assets/images/mangilawa.jpg"
+  },
+  {
+    "name": "PIZAN",
+    "lat": 37.9483,
+    "lng": 43.9548,
+    "description": "",
+    "image": "assets/images/pizan.jpg"
+  },
+  {
+    "name": "ARJI",
+    "lat": 37.8772,
+    "lng": 44.1408,
+    "description": "",
+    "image": "assets/images/arji.jpg"
+  },
+  {
+    "name": "KHARDALANIS",
+    "lat": 37.7481,
+    "lng": 43.733,
+    "description": "",
+    "image": "assets/images/khardalanis.jpg"
+  },
+  {
+    "name": "NERWA",
+    "lat": 37.6283,
+    "lng": 43.8121,
+    "description": "",
+    "image": "assets/images/nerwa.jpg"
+  },
+  {
+    "name": "BURDUK",
+    "lat": 37.994,
+    "lng": 44.0056,
+    "description": "",
+    "image": "assets/images/burduk.jpg"
+  },
+  {
+    "name": "BILEJANE",
+    "lat": 37.0901,
+    "lng": 43.4405,
+    "description": "",
+    "image": "assets/images/bilejane.jpg"
+  },
+  {
+    "name": "HAMZIYAH",
+    "lat": 37.0943,
+    "lng": 43.4272,
+    "description": "",
+    "image": "assets/images/hamziyah.jpg"
+  },
+  {
+    "name": "BAHZANI",
+    "lat": 36.46,
+    "lng": 43.34,
+    "description": "",
+    "image": "assets/images/bahzani.jpg"
+  },
+  {
+    "name": "MARGE",
+    "lat": 36.4776,
+    "lng": 43.4393,
+    "description": "",
+    "image": "assets/images/marge.jpg"
+  },
+  {
+    "name": "MAGHARAH",
+    "lat": 36.4931,
+    "lng": 43.4238,
+    "description": "",
+    "image": "assets/images/magharah.jpg"
+  },
+  {
+    "name": "BA GHARBUQ",
+    "lat": 36.404,
+    "lng": 43.2825,
+    "description": "",
+    "image": "assets/images/bagharbuq.jpg"
+  },
+  {
+    "name": "BA ZWAYA",
+    "lat": 36.37,
+    "lng": 43.2951,
+    "description": "",
+    "image": "assets/images/bazwaya.jpg"
+  },
+  {
+    "name": "BAADRA",
+    "lat": 36.7246,
+    "lng": 43.2521,
+    "description": "",
+    "image": "assets/images/baadra.jpg"
+  },
+  {
+    "name": "PIYOZ",
+    "lat": 36.735,
+    "lng": 43.2121,
+    "description": "",
+    "image": "assets/images/piyoz.jpg"
+  },
+  {
+    "name": "NASSERIYA",
+    "lat": 36.6987,
+    "lng": 43.2179,
+    "description": "",
+    "image": "assets/images/nasseriya.jpg"
+  },
+  {
+    "name": "BAWERAH",
+    "lat": 36.4099,
+    "lng": 43.1197,
+    "description": "",
+    "image": "assets/images/bawerah.jpg"
+  },
+  {
+    "name": "UPPER BA SAKHRAH",
+    "lat": 36.3658,
+    "lng": 43.431,
+    "description": "",
+    "image": "assets/images/upperbasakhrah.jpg"
+  },
+  {
+    "name": "LOWER BA SAKHRAH",
+    "lat": 36.3397,
+    "lng": 43.4466,
+    "description": "",
+    "image": "assets/images/lowerbasakhrah.jpg"
+  },
+  {
+    "name": "DERA KHATRA",
+    "lat": 36.8212,
+    "lng": 43.3703,
+    "description": "",
+    "image": "assets/images/derakhatra.jpg"
+  },
+  {
+    "name": "ADHAKH",
+    "lat": 36.8402,
+    "lng": 43.3716,
+    "description": "",
+    "image": "assets/images/adhakh.jpg"
+  },
+  {
+    "name": "ARAMASHE",
+    "lat": 36.8372,
+    "lng": 43.3864,
+    "description": "",
+    "image": "assets/images/aramashe.jpg"
+  },
+  {
+    "name": "BILLA",
+    "lat": 36.8324,
+    "lng": 43.4378,
+    "description": "",
+    "image": "assets/images/billa.jpg"
+  },
+  {
+    "name": "TILLA",
+    "lat": 36.835,
+    "lng": 43.4645,
+    "description": "",
+    "image": "assets/images/tilla.jpg"
+  },
+  {
+    "name": "BE SAPRE",
+    "lat": 36.8362,
+    "lng": 43.4894,
+    "description": "",
+    "image": "assets/images/besapre.jpg"
+  },
+  {
+    "name": "BIRTA",
+    "lat": 36.8369,
+    "lng": 43.4809,
+    "description": "",
+    "image": "assets/images/birta.jpg"
+  },
+  {
+    "name": "SAR KAFE",
+    "lat": 36.8135,
+    "lng": 43.6006,
+    "description": "",
+    "image": "assets/images/sarkafe.jpg"
+  },
+  {
+    "name": "KANI FALAH",
+    "lat": 36.7506,
+    "lng": 43.5215,
+    "description": "",
+    "image": "assets/images/kanifalah.jpg"
+  },
+  {
+    "name": "GISSA",
+    "lat": 36.868,
+    "lng": 43.7865,
+    "description": "",
+    "image": "assets/images/gissa.jpg"
+  },
+  {
+    "name": "DURE(AQRA)",
+    "lat": 36.8359,
+    "lng": 43.8859,
+    "description": "",
+    "image": "assets/images/dure(aqra).jpg"
+  },
+  {
+    "name": "ARTUN(AQRA)",
+    "lat": 36.8624,
+    "lng": 43.8405,
+    "description": "",
+    "image": "assets/images/artun(aqra).jpg"
+  },
+  {
+    "name": "UPPER ARENA",
+    "lat": 36.9058,
+    "lng": 43.9594,
+    "description": "",
+    "image": "assets/images/upperarena.jpg"
+  },
+  {
+    "name": "LOWER ARENA",
+    "lat": 36.8693,
+    "lng": 43.9898,
+    "description": "",
+    "image": "assets/images/lowerarena.jpg"
+  },
+  {
+    "name": "BA MISHMISH",
+    "lat": 36.8618,
+    "lng": 43.8191,
+    "description": "",
+    "image": "assets/images/bamishmish.jpg"
+  },
+  {
+    "name": "GIPPA",
+    "lat": 36.8203,
+    "lng": 43.9299,
+    "description": "",
+    "image": "assets/images/gippa.jpg"
+  },
+  {
+    "name": "HASHTKA",
+    "lat": 36.7847,
+    "lng": 43.9306,
+    "description": "",
+    "image": "assets/images/hashtka.jpg"
+  },
+  {
+    "name": "UPPER AMADAN",
+    "lat": 36.7893,
+    "lng": 44.0388,
+    "description": "",
+    "image": "assets/images/upperamadan.jpg"
+  },
+  {
+    "name": "LOWER AMADAN",
+    "lat": 36.7765,
+    "lng": 44.0359,
+    "description": "",
+    "image": "assets/images/loweramadan.jpg"
+  },
+  {
+    "name": "MAZRINGAN",
+    "lat": 36.802,
+    "lng": 43.9709,
+    "description": "",
+    "image": "assets/images/mazringan.jpg"
+  },
+  {
+    "name": "MEZE",
+    "lat": 36.945,
+    "lng": 43.3918,
+    "description": "",
+    "image": "assets/images/meze.jpg"
+  },
+  {
+    "name": "ISSAN",
+    "lat": 36.9244,
+    "lng": 43.6468,
+    "description": "",
+    "image": "assets/images/issan.jpg"
+  },
+  {
+    "name": "TALANITHA",
+    "lat": 36.9275,
+    "lng": 43.5947,
+    "description": "",
+    "image": "assets/images/talanitha.jpg"
+  },
+  {
+    "name": "ARGEN",
+    "lat": 36.928,
+    "lng": 43.6147,
+    "description": "",
+    "image": "assets/images/argen.jpg"
+  },
+  {
+    "name": "BARMIN",
+    "lat": 36.9304,
+    "lng": 43.4172,
+    "description": "",
+    "image": "assets/images/barmin.jpg"
+  },
+  {
+    "name": "BASTAVA",
+    "lat": 36.853,
+    "lng": 43.285,
+    "description": "",
+    "image": "assets/images/bastava.jpg"
+  },
+  {
+    "name": "KHOR DAPNE",
+    "lat": 36.9483,
+    "lng": 43.2941,
+    "description": "",
+    "image": "assets/images/khordapne.jpg"
+  },
+  {
+    "name": "SHUSH",
+    "lat": 36.8024,
+    "lng": 43.759,
+    "description": "",
+    "image": "assets/images/shush.jpg"
+  },
+  {
+    "name": "SHARMEN",
+    "lat": 36.8012,
+    "lng": 43.7262,
+    "description": "",
+    "image": "assets/images/sharmen.jpg"
+  },
+  {
+    "name": "NEREM",
+    "lat": 36.7978,
+    "lng": 43.797,
+    "description": "",
+    "image": "assets/images/nerem.jpg"
+  },
+  {
+    "name": "RISH AYNA",
+    "lat": 36.7725,
+    "lng": 43.8525,
+    "description": "",
+    "image": "assets/images/rishayna.jpg"
+  },
+  {
+    "name": "BENATA",
+    "lat": 37.0828,
+    "lng": 43.3811,
+    "description": "",
+    "image": "assets/images/benata.jpg"
+  },
+  {
+    "name": "KHARDIS",
+    "lat": 36.7879,
+    "lng": 43.8249,
+    "description": "",
+    "image": "assets/images/khardis.jpg"
+  },
+  {
+    "name": "KHIRPA",
+    "lat": 36.7687,
+    "lng": 43.8686,
+    "description": "",
+    "image": "assets/images/khirpa.jpg"
+  },
+  {
+    "name": "AQRA",
+    "lat": 36.7601,
+    "lng": 43.8944,
+    "description": "",
+    "image": "assets/images/aqra.jpg"
+  },
+  {
+    "name": "JUNA",
+    "lat": 36.7432,
+    "lng": 43.9329,
+    "description": "",
+    "image": "assets/images/juna.jpg"
+  },
+  {
+    "name": "BASH QAL",
+    "lat": 36.7482,
+    "lng": 43.9206,
+    "description": "",
+    "image": "assets/images/bashqal.jpg"
+  },
+  {
+    "name": "NUHAWA",
+    "lat": 36.7019,
+    "lng": 43.9732,
+    "description": "",
+    "image": "assets/images/nuhawa.jpg"
+  },
+  {
+    "name": "KHARJAWA",
+    "lat": 36.6668,
+    "lng": 43.8782,
+    "description": "",
+    "image": "assets/images/kharjawa.jpg"
+  },
+  {
+    "name": "ZANTA",
+    "lat": 36.7303,
+    "lng": 43.9741,
+    "description": "",
+    "image": "assets/images/zanta.jpg"
+  },
+  {
+    "name": "BEJIL",
+    "lat": 36.7262,
+    "lng": 44.0163,
+    "description": "",
+    "image": "assets/images/bejil.jpg"
+  },
+  {
+    "name": "KALATE",
+    "lat": 36.726,
+    "lng": 44.0842,
+    "description": "",
+    "image": "assets/images/kalate.jpg"
+  },
+  {
+    "name": "QALONTA",
+    "lat": 36.7216,
+    "lng": 44.0834,
+    "description": "",
+    "image": "assets/images/qalonta.jpg"
+  },
+  {
+    "name": "KHANAGA",
+    "lat": 36.7301,
+    "lng": 43.9981,
+    "description": "",
+    "image": "assets/images/khanaga.jpg"
+  },
+  {
+    "name": "LOWER CHAMANKE",
+    "lat": 36.9406,
+    "lng": 43.424,
+    "description": "",
+    "image": "assets/images/lowerchamanke.jpg"
+  },
+  {
+    "name": "UPPER KHANANIS",
+    "lat": 37.6172,
+    "lng": 43.679,
+    "description": "",
+    "image": "assets/images/upperkhananis.jpg"
+  },
+  {
+    "name": "LOWER KHANANIS",
+    "lat": 37.6013,
+    "lng": 43.6924,
+    "description": "",
+    "image": "assets/images/lowerkhananis.jpg"
+  },
+  {
+    "name": "NAHRA",
+    "lat": 37.4409,
+    "lng": 43.9484,
+    "description": "",
+    "image": "assets/images/nahra.jpg"
+  },
+  {
+    "name": "MEHLO",
+    "lat": 38.132126,
+    "lng": 39.070816,
+    "description": "",
+    "image": "assets/images/mehlo.jpg"
+  },
+  {
+    "name": "ERUBAN",
+    "lat": 38.045387,
+    "lng": 38.982925,
+    "description": "",
+    "image": "assets/images/eruban.jpg"
+  },
+  {
+    "name": "SURIAN",
+    "lat": 37.930659,
+    "lng": 39.082575,
+    "description": "",
+    "image": "assets/images/surian.jpg"
+  },
+  {
+    "name": "AVIYOZ",
+    "lat": 38.730117,
+    "lng": 39.058285,
+    "description": "",
+    "image": "assets/images/aviyoz.jpg"
+  },
+  {
+    "name": "HARPUT",
+    "lat": 38.704535,
+    "lng": 39.251232,
+    "description": "",
+    "image": "assets/images/harput.jpg"
+  },
+  {
+    "name": "KHAVENTS",
+    "lat": 38.697033,
+    "lng": 43.25901,
+    "description": "",
+    "image": "assets/images/khavents.jpg"
+  },
+  {
+    "name": "POKHANIS",
+    "lat": 38.646372,
+    "lng": 43.371449,
+    "description": "",
+    "image": "assets/images/pokhanis.jpg"
+  },
+  {
+    "name": "GENDALAWA",
+    "lat": 38.602786,
+    "lng": 43.492298,
+    "description": "",
+    "image": "assets/images/gendalawa.jpg"
+  },
+  {
+    "name": "KHINNU",
+    "lat": 38.589638,
+    "lng": 43.582935,
+    "description": "",
+    "image": "assets/images/khinnu.jpg"
+  },
+  {
+    "name": "SARAY",
+    "lat": 38.649053,
+    "lng": 44.170532,
+    "description": "",
+    "image": "assets/images/saray.jpg"
+  },
+  {
+    "name": "HAWRESHUR",
+    "lat": 38.411634,
+    "lng": 43.617783,
+    "description": "",
+    "image": "assets/images/hawreshur.jpg"
+  },
+  {
+    "name": "ALFAF",
+    "lat": 36.486212,
+    "lng": 43.42977,
+    "description": "",
+    "image": "assets/images/alfaf.jpg"
+  },
+  {
+    "name": "BARAKAR",
+    "lat": 36.472875,
+    "lng": 43.435414,
+    "description": "",
+    "image": "assets/images/barakar.jpg"
+  },
+  {
+    "name": "MALA BARWAN",
+    "lat": 36.647797,
+    "lng": 43.569331,
+    "description": "",
+    "image": "assets/images/malabarwan.jpg"
+  },
+  {
+    "name": "GORGORAN",
+    "lat": 36.713018,
+    "lng": 43.623362,
+    "description": "",
+    "image": "assets/images/gorgoran.jpg"
+  },
+  {
+    "name": "HAZARJOT",
+    "lat": 36.656947,
+    "lng": 43.606088,
+    "description": "",
+    "image": "assets/images/hazarjot.jpg"
+  },
+  {
+    "name": "ATUSH",
+    "lat": 36.931781,
+    "lng": 43.48526,
+    "description": "",
+    "image": "assets/images/atush.jpg"
+  },
+  {
+    "name": "GAWILAN",
+    "lat": 37.957598,
+    "lng": 44.995193,
+    "description": "",
+    "image": "assets/images/gawilan.jpg"
+  },
+  {
+    "name": "JAMALAWA",
+    "lat": 37.970997,
+    "lng": 45.00515,
+    "description": "",
+    "image": "assets/images/jamalawa.jpg"
+  },
+  {
+    "name": "MAR YAQO",
+    "lat": 36.928694,
+    "lng": 42.900925,
+    "description": "",
+    "image": "assets/images/maryaqo.jpg"
+  },
+  {
+    "name": "SHAYOZ",
+    "lat": 36.910235,
+    "lng": 42.884445,
+    "description": "",
+    "image": "assets/images/shayoz.jpg"
+  },
+  {
+    "name": "TIN",
+    "lat": 37.099003,
+    "lng": 43.248453,
+    "description": "",
+    "image": "assets/images/tin.jpg"
+  },
+  {
+    "name": "KANI BALAVEH",
+    "lat": 37.177005,
+    "lng": 43.189745,
+    "description": "",
+    "image": "assets/images/kanibalaveh.jpg"
+  },
+  {
+    "name": "UPPER CHAQALA",
+    "lat": 37.232174,
+    "lng": 43.191333,
+    "description": "",
+    "image": "assets/images/upperchaqala.jpg"
+  },
+  {
+    "name": "LOWER CHAQALA",
+    "lat": 37.225408,
+    "lng": 43.193307,
+    "description": "",
+    "image": "assets/images/lowerchaqala.jpg"
+  },
+  {
+    "name": "JEDIDAH",
+    "lat": 37.207431,
+    "lng": 43.279953,
+    "description": "",
+    "image": "assets/images/jedidah.jpg"
+  },
+  {
+    "name": "BAQULKEH",
+    "lat": 37.218812,
+    "lng": 43.281112,
+    "description": "",
+    "image": "assets/images/baqulkeh.jpg"
+  },
+  {
+    "name": "BAZ",
+    "lat": 37.1768,
+    "lng": 43.259783,
+    "description": "",
+    "image": "assets/images/baz.jpg"
+  },
+  {
+    "name": "TUTHSHAMAYEH",
+    "lat": 37.178407,
+    "lng": 43.290982,
+    "description": "",
+    "image": "assets/images/tuthshamayeh.jpg"
+  },
+  {
+    "name": "MARGACHIYA",
+    "lat": 37.171978,
+    "lng": 43.43359,
+    "description": "",
+    "image": "assets/images/margachiya.jpg"
+  },
+  {
+    "name": "HAYYIS",
+    "lat": 37.167875,
+    "lng": 43.437495,
+    "description": "",
+    "image": "assets/images/hayyis.jpg"
+  },
+  {
+    "name": "EYIT",
+    "lat": 37.214745,
+    "lng": 43.456078,
+    "description": "",
+    "image": "assets/images/eyit.jpg"
+  },
+  {
+    "name": "BISHMIYAHEH",
+    "lat": 37.208388,
+    "lng": 43.463459,
+    "description": "",
+    "image": "assets/images/bishmiyaheh.jpg"
+  },
+  {
+    "name": "SERDESHTE",
+    "lat": 37.196971,
+    "lng": 43.536158,
+    "description": "",
+    "image": "assets/images/serdeshte.jpg"
+  },
+  {
+    "name": "MALAKHTHA",
+    "lat": 37.188083,
+    "lng": 43.539162,
+    "description": "",
+    "image": "assets/images/malakhtha.jpg"
+  },
+  {
+    "name": "IQREH",
+    "lat": 37.187673,
+    "lng": 43.565083,
+    "description": "",
+    "image": "assets/images/iqreh.jpg"
+  },
+  {
+    "name": "NERWA JERÎ",
+    "lat": 37.200868,
+    "lng": 43.680696,
+    "description": "",
+    "image": "assets/images/nerwajerî.jpg"
+  },
+  {
+    "name": "BORASH",
+    "lat": 37.254277,
+    "lng": 43.548818,
+    "description": "",
+    "image": "assets/images/borash.jpg"
+  },
+  {
+    "name": "ZERNI",
+    "lat": 37.256874,
+    "lng": 43.558173,
+    "description": "",
+    "image": "assets/images/zerni.jpg"
+  },
+  {
+    "name": "KARUKHTA",
+    "lat": 37.302392,
+    "lng": 43.506117,
+    "description": "",
+    "image": "assets/images/karukhta.jpg"
+  },
+  {
+    "name": "KURKHEH",
+    "lat": 37.307034,
+    "lng": 43.499207,
+    "description": "",
+    "image": "assets/images/kurkheh.jpg"
+  },
+  {
+    "name": "ERBISH",
+    "lat": 37.288053,
+    "lng": 43.822231,
+    "description": "",
+    "image": "assets/images/erbish.jpg"
+  },
+  {
+    "name": "BE TANNUREH",
+    "lat": 37.201005,
+    "lng": 43.46921,
+    "description": "",
+    "image": "assets/images/betannureh.jpg"
+  },
+  {
+    "name": "DERE",
+    "lat": 37.098661,
+    "lng": 43.521223,
+    "description": "",
+    "image": "assets/images/dere.jpg"
+  },
+  {
+    "name": "MERISTAK",
+    "lat": 37.087707,
+    "lng": 43.514013,
+    "description": "",
+    "image": "assets/images/meristak.jpg"
+  },
+  {
+    "name": "BARZANAR",
+    "lat": 36.8812,
+    "lng": 43.79262,
+    "description": "",
+    "image": "assets/images/barzanar.jpg"
+  },
+  {
+    "name": "DODI ZHERI",
+    "lat": 36.852565,
+    "lng": 43.806438,
+    "description": "",
+    "image": "assets/images/dodizheri.jpg"
+  },
+  {
+    "name": "LOWER MINYANISH",
+    "lat": 37.308673,
+    "lng": 43.475389,
+    "description": "",
+    "image": "assets/images/lowerminyanish.jpg"
+  },
+  {
+    "name": "KHIARTA",
+    "lat": 37.320687,
+    "lng": 44.062557,
+    "description": "",
+    "image": "assets/images/khiarta.jpg"
+  },
+  {
+    "name": "DAYR BASHUR",
+    "lat": 37.837581,
+    "lng": 40.174942,
+    "description": "",
+    "image": "assets/images/dayrbashur.jpg"
+  },
+  {
+    "name": "HAWAR KHASEH",
+    "lat": 37.894769,
+    "lng": 40.13134,
+    "description": "",
+    "image": "assets/images/hawarkhaseh.jpg"
+  },
+  {
+    "name": "HAWAR DIJLAH",
+    "lat": 37.881357,
+    "lng": 40.12413,
+    "description": "",
+    "image": "assets/images/hawardijlah.jpg"
+  },
+  {
+    "name": "CHANAKCHI",
+    "lat": 37.875531,
+    "lng": 40.14782,
+    "description": "",
+    "image": "assets/images/chanakchi.jpg"
+  },
+  {
+    "name": "DERAKLI",
+    "lat": 37.943927,
+    "lng": 40.337076,
+    "description": "",
+    "image": "assets/images/derakli.jpg"
+  },
+  {
+    "name": "DIJLEH",
+    "lat": 37.868349,
+    "lng": 40.24601,
+    "description": "",
+    "image": "assets/images/dijleh.jpg"
+  },
+  {
+    "name": "BOZ PINAR",
+    "lat": 37.905877,
+    "lng": 40.427713,
+    "description": "",
+    "image": "assets/images/bozpinar.jpg"
+  },
+  {
+    "name": "BAGHCHEJIK",
+    "lat": 37.891654,
+    "lng": 40.446854,
+    "description": "",
+    "image": "assets/images/baghchejik.jpg"
+  },
+  {
+    "name": "FOUM",
+    "lat": 38.46199,
+    "lng": 40.664005,
+    "description": "",
+    "image": "assets/images/foum.jpg"
+  },
+  {
+    "name": "SHIM SHIM",
+    "lat": 38.392666,
+    "lng": 40.680485,
+    "description": "",
+    "image": "assets/images/shimshim.jpg"
+  },
+  {
+    "name": "HARBANKI",
+    "lat": 38.399998,
+    "lng": 40.834036,
+    "description": "",
+    "image": "assets/images/harbanki.jpg"
+  },
+  {
+    "name": "GOLEMIRAN",
+    "lat": 38.016452,
+    "lng": 40.723572,
+    "description": "",
+    "image": "assets/images/golemiran.jpg"
+  },
+  {
+    "name": "BASHNIK",
+    "lat": 38.119432,
+    "lng": 40.735245,
+    "description": "",
+    "image": "assets/images/bashnik.jpg"
+  },
+  {
+    "name": "BELLI",
+    "lat": 37.912513,
+    "lng": 40.817986,
+    "description": "",
+    "image": "assets/images/belli.jpg"
+  },
+  {
+    "name": "FATIL ASHIQ",
+    "lat": 37.891925,
+    "lng": 40.716019,
+    "description": "",
+    "image": "assets/images/fatilashiq.jpg"
+  },
+  {
+    "name": "MATREH",
+    "lat": 37.711529,
+    "lng": 40.884247,
+    "description": "",
+    "image": "assets/images/matreh.jpg"
+  },
+  {
+    "name": "SELEDUN",
+    "lat": 37.731353,
+    "lng": 40.861931,
+    "description": "",
+    "image": "assets/images/seledun.jpg"
+  },
+  {
+    "name": "SADIYEH",
+    "lat": 37.792422,
+    "lng": 40.840302,
+    "description": "",
+    "image": "assets/images/sadiyeh.jpg"
+  },
+  {
+    "name": "MULLA DAVUDAN",
+    "lat": 37.828497,
+    "lng": 40.891113,
+    "description": "",
+    "image": "assets/images/mulladavudan.jpg"
+  },
+  {
+    "name": "ZERREH",
+    "lat": 37.814666,
+    "lng": 40.810518,
+    "description": "",
+    "image": "assets/images/zerreh.jpg"
+  },
+  {
+    "name": "GUNDE ABDI",
+    "lat": 37.837988,
+    "lng": 40.856094,
+    "description": "",
+    "image": "assets/images/gundeabdi.jpg"
+  },
+  {
+    "name": "MAYMUNIYEH",
+    "lat": 37.78469,
+    "lng": 41.240101,
+    "description": "",
+    "image": "assets/images/maymuniyeh.jpg"
+  },
+  {
+    "name": "BARSIL",
+    "lat": 37.840157,
+    "lng": 41.272545,
+    "description": "",
+    "image": "assets/images/barsil.jpg"
+  },
+  {
+    "name": "BILAYDIR",
+    "lat": 37.847748,
+    "lng": 41.216583,
+    "description": "",
+    "image": "assets/images/bilaydir.jpg"
+  },
+  {
+    "name": "KORIKEH",
+    "lat": 37.894634,
+    "lng": 41.16457,
+    "description": "",
+    "image": "assets/images/korikeh.jpg"
+  },
+  {
+    "name": "ELEMDIN",
+    "lat": 37.890705,
+    "lng": 41.065006,
+    "description": "",
+    "image": "assets/images/elemdin.jpg"
+  },
+  {
+    "name": "TELL MERJ",
+    "lat": 37.917659,
+    "lng": 41.150665,
+    "description": "",
+    "image": "assets/images/tellmerj.jpg"
+  },
+  {
+    "name": "CHINDEREK",
+    "lat": 37.842055,
+    "lng": 41.084061,
+    "description": "",
+    "image": "assets/images/chinderek.jpg"
+  },
+  {
+    "name": "TILMIZ",
+    "lat": 37.854254,
+    "lng": 41.183968,
+    "description": "",
+    "image": "assets/images/tilmiz.jpg"
+  },
+  {
+    "name": "BATMAN",
+    "lat": 37.887,
+    "lng": 41.132,
+    "description": "",
+    "image": "assets/images/batman.jpg"
+  },
+  {
+    "name": "MALATYA",
+    "lat": 38.310378,
+    "lng": 38.309273,
+    "description": "",
+    "image": "assets/images/malatya.jpg"
+  },
+  {
+    "name": "GOLLIYEH",
+    "lat": 37.251647,
+    "lng": 40.714302,
+    "description": "",
+    "image": "assets/images/golliyeh.jpg"
+  },
+  {
+    "name": "TELL ARMAN",
+    "lat": 37.193143,
+    "lng": 40.585213,
+    "description": "",
+    "image": "assets/images/tellarman.jpg"
+  },
+  {
+    "name": "BRAHAMIYEH",
+    "lat": 37.186579,
+    "lng": 40.541267,
+    "description": "",
+    "image": "assets/images/brahamiyeh.jpg"
+  },
+  {
+    "name": "DAYR GOZEH",
+    "lat": 37.51313,
+    "lng": 40.641003,
+    "description": "",
+    "image": "assets/images/dayrgozeh.jpg"
+  },
+  {
+    "name": "SER CHIQA",
+    "lat": 37.10667,
+    "lng": 41.073761,
+    "description": "",
+    "image": "assets/images/serchiqa.jpg"
+  },
+  {
+    "name": "VAN",
+    "lat": 38.494167,
+    "lng": 43.38,
+    "description": "",
+    "image": "assets/images/van.jpg"
+  },
+  {
+    "name": "MAHA KHTAYA",
+    "lat": 37.424733,
+    "lng": 43.87477,
+    "description": "",
+    "image": "assets/images/mahakhtaya.jpg"
+  },
+  {
+    "name": "KOJIJA",
+    "lat": 37.420958,
+    "lng": 43.881626,
+    "description": "",
+    "image": "assets/images/kojija.jpg"
+  },
+  {
+    "name": "SHWAWOOTHA",
+    "lat": 37.418981,
+    "lng": 43.897676,
+    "description": "",
+    "image": "assets/images/shwawootha.jpg"
+  },
+  {
+    "name": "BE SELEM",
+    "lat": 37.42734,
+    "lng": 43.87668,
+    "description": "",
+    "image": "assets/images/beselem.jpg"
+  },
+  {
+    "name": "ARWANTUS",
+    "lat": 37.405142,
+    "lng": 43.938489,
+    "description": "",
+    "image": "assets/images/arwantus.jpg"
+  },
+  {
+    "name": "QARNABAD",
+    "lat": 36.925194,
+    "lng": 45.308475,
+    "description": "",
+    "image": "assets/images/qarnabad.jpg"
+  },
+  {
+    "name": "SHALHOMAYA",
+    "lat": 37.06367,
+    "lng": 41.55467,
+    "description": "",
+    "image": "assets/images/shalhomaya.jpg"
+  },
+  {
+    "name": "TAPA",
+    "lat": 36.990728,
+    "lng": 45.456491,
+    "description": "",
+    "image": "assets/images/tapa.jpg"
+  },
+  {
+    "name": "TUPUZABAD",
+    "lat": 36.963609,
+    "lng": 45.428982,
+    "description": "",
+    "image": "assets/images/tupuzabad.jpg"
+  },
+  {
+    "name": "ZINARIKH",
+    "lat": 37.28498,
+    "lng": 41.766243,
+    "description": "",
+    "image": "assets/images/zinarikh.jpg"
+  },
+  {
+    "name": "(KHIDHIR/BASATLIYA)",
+    "lat": 36.138169,
+    "lng": 43.40547,
+    "description": "",
+    "image": "assets/images/(khidhir/basatliya).jpg"
+  },
+  {
+    "name": "ARMOTA",
+    "lat": 36.06714,
+    "lng": 44.607754,
+    "description": "",
+    "image": "assets/images/armota.jpg"
+  },
+  {
+    "name": "BARANEH",
+    "lat": 37.012011,
+    "lng": 45.498762,
+    "description": "",
+    "image": "assets/images/baraneh.jpg"
+  },
+  {
+    "name": "CHANYANEH",
+    "lat": 36.955928,
+    "lng": 45.353966,
+    "description": "",
+    "image": "assets/images/chanyaneh.jpg"
+  },
+  {
+    "name": "GURDAHOL",
+    "lat": 37.022428,
+    "lng": 41.52935,
+    "description": "",
+    "image": "assets/images/gurdahol.jpg"
+  },
+  {
+    "name": "KAYF ARZEH",
+    "lat": 37.44379,
+    "lng": 41.52832,
+    "description": "",
+    "image": "assets/images/kayfarzeh.jpg"
+  },
+  {
+    "name": "KHARABO SHUSHANEH",
+    "lat": 37.18904,
+    "lng": 41.797829,
+    "description": "",
+    "image": "assets/images/kharaboshushaneh.jpg"
+  },
+  {
+    "name": "PARKIYA",
+    "lat": 38.76,
+    "lng": 43.4067,
+    "description": "",
+    "image": "assets/images/parkiya.jpg"
+  },
+  {
+    "name": "ADIMAN",
+    "lat": 38.5758,
+    "lng": 43.5667,
+    "description": "",
+    "image": "assets/images/adiman.jpg"
+  },
+  {
+    "name": "SATI BEG",
+    "lat": 38.6883,
+    "lng": 43.4825,
+    "description": "",
+    "image": "assets/images/satibeg.jpg"
+  },
+  {
+    "name": "KHARASHIK",
+    "lat": 38.6681,
+    "lng": 43.4628,
+    "description": "",
+    "image": "assets/images/kharashik.jpg"
+  },
+  {
+    "name": "TUNEH",
+    "lat": 38.4322,
+    "lng": 43.5497,
+    "description": "",
+    "image": "assets/images/tuneh.jpg"
+  },
+  {
+    "name": "AKHASIM",
+    "lat": 38.4242,
+    "lng": 43.6667,
+    "description": "",
+    "image": "assets/images/akhasim.jpg"
+  },
+  {
+    "name": "KHOSHAB",
+    "lat": 38.3183,
+    "lng": 43.8006,
+    "description": "",
+    "image": "assets/images/khoshab.jpg"
+  },
+  {
+    "name": "SIL",
+    "lat": 38.135,
+    "lng": 43.8294,
+    "description": "",
+    "image": "assets/images/sil.jpg"
+  },
+  {
+    "name": "KILISSA",
+    "lat": 38.1564,
+    "lng": 43.8522,
+    "description": "",
+    "image": "assets/images/kilissa.jpg"
+  },
+  {
+    "name": "KHARABSORK",
+    "lat": 38.6744,
+    "lng": 44.2094,
+    "description": "",
+    "image": "assets/images/kharabsork.jpg"
+  },
+  {
+    "name": "VARAG",
+    "lat": 38.4497,
+    "lng": 43.4619,
+    "description": "",
+    "image": "assets/images/varag.jpg"
+  },
+  {
+    "name": "ARCHAG",
+    "lat": 38.6544,
+    "lng": 43.6531,
+    "description": "",
+    "image": "assets/images/archag.jpg"
+  },
+  {
+    "name": "AQJACHAY",
+    "lat": 38.7933,
+    "lng": 43.8122,
+    "description": "",
+    "image": "assets/images/aqjachay.jpg"
+  },
+  {
+    "name": "BE BIRI",
+    "lat": 37.597844,
+    "lng": 44.075089,
+    "description": "",
+    "image": "assets/images/bebiri.jpg"
+  },
+  {
+    "name": "BE RESPI",
+    "lat": 37.6081,
+    "lng": 44.0667,
+    "description": "",
+    "image": "assets/images/berespi.jpg"
+  },
+  {
+    "name": "ALKANAN",
+    "lat": 37.528923,
+    "lng": 44.168558,
+    "description": "",
+    "image": "assets/images/alkanan.jpg"
+  },
+  {
+    "name": "MEDHI",
+    "lat": 37.452376,
+    "lng": 43.91407,
+    "description": "",
+    "image": "assets/images/medhi.jpg"
+  },
+  {
+    "name": "BE PACHU",
+    "lat": 37.466002,
+    "lng": 43.950119,
+    "description": "",
+    "image": "assets/images/bepachu.jpg"
+  },
+  {
+    "name": "UMMOT",
+    "lat": 37.446073,
+    "lng": 43.971577,
+    "description": "",
+    "image": "assets/images/ummot.jpg"
+  },
+  {
+    "name": "BIYYA",
+    "lat": 37.506458,
+    "lng": 43.768158,
+    "description": "",
+    "image": "assets/images/biyya.jpg"
+  },
+  {
+    "name": "NERIK?",
+    "lat": 37.407222,
+    "lng": 43.953056,
+    "description": "",
+    "image": "assets/images/nerik?.jpg"
+  },
+  {
+    "name": "GOUVIK",
+    "lat": 37.656509,
+    "lng": 43.547401,
+    "description": "",
+    "image": "assets/images/gouvik.jpg"
+  },
+  {
+    "name": "BADAN",
+    "lat": 37.624973,
+    "lng": 43.542595,
+    "description": "",
+    "image": "assets/images/badan.jpg"
+  },
+  {
+    "name": "PEYANIS",
+    "lat": 37.589071,
+    "lng": 43.570747,
+    "description": "",
+    "image": "assets/images/peyanis.jpg"
+  },
+  {
+    "name": "TIRQONIS",
+    "lat": 37.621302,
+    "lng": 43.816738,
+    "description": "",
+    "image": "assets/images/tirqonis.jpg"
+  },
+  {
+    "name": "KEGAR",
+    "lat": 37.650121,
+    "lng": 43.852444,
+    "description": "",
+    "image": "assets/images/kegar.jpg"
+  },
+  {
+    "name": "RABBAN DADISHO",
+    "lat": 37.6024,
+    "lng": 43.86755,
+    "description": "",
+    "image": "assets/images/rabbandadisho.jpg"
+  },
+  {
+    "name": "MADEZ",
+    "lat": 37.602264,
+    "lng": 43.881798,
+    "description": "",
+    "image": "assets/images/madez.jpg"
+  },
+  {
+    "name": "AQOSI",
+    "lat": 37.6126,
+    "lng": 43.897934,
+    "description": "",
+    "image": "assets/images/aqosi.jpg"
+  },
+  {
+    "name": "CHAMBA DCHIRI CHARA",
+    "lat": 37.608656,
+    "lng": 43.918018,
+    "description": "",
+    "image": "assets/images/chambadchirichara.jpg"
+  },
+  {
+    "name": "CHIRI CHARA",
+    "lat": 37.588119,
+    "lng": 43.895702,
+    "description": "",
+    "image": "assets/images/chirichara.jpg"
+  },
+  {
+    "name": "SANAYA",
+    "lat": 36.836424,
+    "lng": 43.86755,
+    "description": "",
+    "image": "assets/images/sanaya.jpg"
+  },
+  {
+    "name": "AIN BAQREH",
+    "lat": 36.675854,
+    "lng": 43.194809,
+    "description": "",
+    "image": "assets/images/ainbaqreh.jpg"
+  },
+  {
+    "name": "DASHQOTANE",
+    "lat": 36.656667,
+    "lng": 43.217222,
+    "description": "",
+    "image": "assets/images/dashqotane.jpg"
+  },
+  {
+    "name": "GARMAWA",
+    "lat": 36.643056,
+    "lng": 43.233889,
+    "description": "",
+    "image": "assets/images/garmawa.jpg"
+  },
+  {
+    "name": "BETH MARIAM",
+    "lat": 36.745556,
+    "lng": 43.162222,
+    "description": "",
+    "image": "assets/images/bethmariam.jpg"
+  },
+  {
+    "name": "ELKI",
+    "lat": 37.569444,
+    "lng": 43.165556,
+    "description": "",
+    "image": "assets/images/elki.jpg"
+  },
+  {
+    "name": "GIRIK BEDRO",
+    "lat": 37.174,
+    "lng": 42.419,
+    "description": "",
+    "image": "assets/images/girikbedro.jpg"
+  },
+  {
+    "name": "AKOL",
+    "lat": 37.472222,
+    "lng": 42.79,
+    "description": "",
+    "image": "assets/images/akol.jpg"
+  },
+    {
+      "name": "PIROZ",
+      "lat": 37.948665,
+      "lng": 42.297192,
+      "description": "",
+      "image": "assets/images/piroz.jpg"
+    },
+    {
+      "name": "HAKH",
+      "lat": 37.968121,
+      "lng": 42.413793,
+      "description": "",
+      "image": "assets/images/hakh.jpg"
+    },
+    {
+      "name": "DENTAS",
+      "lat": 37.952929,
+      "lng": 42.276249,
+      "description": "",
+      "image": "assets/images/dentas.jpg"
+    },
+    {
+      "name": "SIMKHOR",
+      "lat": 37.972621,
+      "lng": 42.2826,
+      "description": "",
+      "image": "assets/images/simkhor.jpg"
+    },
+    {
+      "name": "BIRKA",
+      "lat": 37.979657,
+      "lng": 42.149391,
+      "description": "",
+      "image": "assets/images/birka.jpg"
+    },
+    {
+      "name": "MADEN",
+      "lat": 38.096741,
+      "lng": 42.155571,
+      "description": "",
+      "image": "assets/images/maden.jpg"
+    },
+    {
+      "name": "MERCH",
+      "lat": 38.134152,
+      "lng": 42.120552,
+      "description": "",
+      "image": "assets/images/merch.jpg"
+    },
+    {
+      "name": "GUNDUIZAN",
+      "lat": 38.134692,
+      "lng": 42.101498,
+      "description": "",
+      "image": "assets/images/gunduizan.jpg"
+    },
+    {
+      "name": "GIDYANIS",
+      "lat": 37.795,
+      "lng": 41.976357,
+      "description": "",
+      "image": "assets/images/gidyanis.jpg"
+    },
+    {
+      "name": "BINGOV",
+      "lat": 37.709696,
+      "lng": 42.057552,
+      "description": "",
+      "image": "assets/images/bingov.jpg"
+    },
+    {
+      "name": "KITMIS",
+      "lat": 37.875666,
+      "lng": 41.914902,
+      "description": "",
+      "image": "assets/images/kitmis.jpg"
+    },
+    {
+      "name": "DEIR MAR YAQOB",
+      "lat": 37.88366,
+      "lng": 41.890869,
+      "description": "",
+      "image": "assets/images/deirmaryaqub.jpg"
+    },
+    {
+      "name": "DUHOK",
+      "lat": 37.94149,
+      "lng": 41.8613,
+      "description": "",
+      "image": "assets/images/duhok.jpg"
+    },
+    {
+      "name": "BE-SHAMASHA",
+      "lat": 38.017804,
+      "lng": 41.863747,
+      "description": "",
+      "image": "assets/images/beshamasha.jpg"
+    },
+    {
+      "name": "MINAR",
+      "lat": 38.080663,
+      "lng": 41.829929,
+      "description": "",
+      "image": "assets/images/minar.jpg"
+    },
+    {
+      "name": "SIMHOR",
+      "lat": 38.092012,
+      "lng": 41.901512,
+      "description": "",
+      "image": "assets/images/simhor.jpg"
+    },
+      {
+        "name": "TELLA",
+        "lat": 37.9488,
+        "lng": 42.010345,
+        "description": "",
+        "image": "assets/images/tella.jpg"
+      },
+      {
+        "name": "SIIRT",
+        "lat": 37.927778,
+        "lng": 41.945833,
+        "description": "",
+        "image": "assets/images/siirt.jpg"
+      },
+        {
+          "name": "BATA",
+          "lat": 37.507139,
+          "lng": 43.22691,
+          "description": "Assyrian?",
+          "image": "assets/images/bata.jpg"
+        },
+        {
+          "name": "PIRUSHAN",
+          "lat": 37.492703,
+          "lng": 43.195667,
+          "description": "Piron from Agha Petros? Assyrians and Armenians",
+          "image": "assets/images/pirushan.jpg"
+        },
+        
+          {
+            "name": "MAYPHARQAT (SILIVAN)",
+            "lat": 38.145898,
+            "lng": 41.003723,
+            "description": "",
+            "image": "assets/images/maypharqatsilivan.jpg"
+          },
+          {
+            "name": "BOSHAT",
+            "lat": 38.228944,
+            "lng": 40.984926,
+            "description": "Mostly Chaldean, some Armenians",
+            "image": "assets/images/boshat.jpg"
+          },
+          {
+            "name": "BAQOZ",
+            "lat": 38.23191,
+            "lng": 40.974798,
+            "description": "Mostly Chaldean, some Armenians.",
+            "image": "assets/images/baqoz.jpg"
+          }
+        ]
+        
+      
+      
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

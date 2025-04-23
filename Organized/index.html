@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Assyrian Villages Map</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <!-- Mapbox CSS -->
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.8.0/mapbox-gl.css" rel="stylesheet" />
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style/main.css" />
+</head>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const container = document.getElementById('mobile-search-container');
+    const button = document.getElementById('mobile-search-button');
+    const input = document.getElementById('mobile-search-bar');
+
+    button.addEventListener('click', () => {
+      container.classList.toggle('active');
+      if (container.classList.contains('active')) {
+        setTimeout(() => input.focus(), 100);
+      }
+    });
+  });
+</script>
+
+<script src="scripts/info.js" defer></script>
+
+
+<body>
+
+  <!-- 🔥 Intro Section -->
+  <section id="intro-section">
+    <div class="intro-container">
+      <h1 class="intro-title">ASSYRIAN VILLAGES</h1>
+      <p class="intro-tagline">ܡܬܘ̈ܬܐ ܐܬܘܪ̈ܝܐ</p>
+      <p class="intro-desc">Explore the Assyrian homeland — across mountains, plains, and ruins.</p>
+      <button class="intro-button" id="enter-button">Explore</button>
+    </div>
+  </section>
+
+  <!-- 🔗 Navigation Bar -->
+  <nav id="top-nav">
+    <a href="index.html" class="nav-link">Home</a>
+    <a href="submit.html" class="nav-link">Submit</a>
+    <a href="#" class="nav-link" onclick="openAboutPopup()">About</a>
+    <a href="#" class="nav-link" onclick="openContactPopup()">Contact</a>
+
+  </nav>
+
+  <!-- 🔍 Search -->
+  <div id="search-container">
+    <input type="text" id="search-input" placeholder="Search for a village..." />
+    <ul id="search-results"></ul>
+    <button id="search-button">Search</button>
+  </div>
+<!-- Mobile Search Button -->
+<div id="mobile-search-container">
+  <button id="mobile-search-button">
+    <img src="assets/icons/search.png" alt="Search" />
+  </button>
+  <input type="text" id="mobile-search-bar" placeholder="Search villages..." />
+</div>
+
+<!-- ✅ Mobile-specific search results -->
+<ul id="mobile-search-results"></ul>
+
+
+  <!-- 🗺️ Map -->
+  <div id="map"></div>
+
+  <!-- 📍 Village Info Popup -->
+  <div id="popup-overlay"></div>
+  <div id="popup-container" class="hidden">
+    <div id="popup-content">
+      <h2 id="popup-title"></h2>
+      <img id="popup-image" src="" alt="Village Image" style="max-width: 100%; border-radius: 8px; margin: 15px 0;" />
+      <p id="popup-description"></p>
+      <button id="close-popup">Close</button>
+    </div>
+  </div>
+
+  
+  <!-- 📬 Contact Popup -->
+  <div id="contact-popup" class="contact-popup">
+    <h2 class="contact-title">Contact Us</h2>
+    <hr style="width: 60px; height: 2px; background: #8b0000; border: none; margin: 10px auto 30px;" />
+
+    <section class="contact-section">
+      <h3 class="contact-subtitle">Share With Us</h3>
+      <p>
+        If you have questions, would like to collaborate, or are ready to share information, we’d love to hear from you. <h3>What We’re Looking For</h3>
+      <ul>
+        <li><strong>Village Histories</strong> – Accounts of customs, founding stories, significant events, notable figures, and cultural elements that shaped the life and identity of the village.
+        </li>
+        <li><strong>Family Lineages</strong> –  Tribal affiliations, family origins, migration histories, and any information that traces the movement and structure of specific Assyrian families.</li>
+        <li><strong>Photos & Documents</strong> – Authentic historical photographs and original written materials that visually or narratively capture the story of Assyrian villages.</li>
+        <li><strong>Languages & Dialects</strong> –  Audio recordings or linguistic data capturing the dialect spoken in a specific village or region.</li>
+      </ul>
+    </section>
+
+    <section class="contact-section">
+      <h3 class="contact-subtitle">Ways to Contact Us</h3>
+      <ul class="contact-list">
+        <li><strong>Email:</strong> <a href="mailto:AssyrianVillages@gmail.com">AssyrianVillages@gmail.com</a></li>
+        <li><strong>Instagram:</strong> <a href="https://instagram.com/Assyrian_Villages" target="_blank">@Assyrian_Villages</a></li>
+        <li><strong>Facebook:</strong> <a href="https://facebook.com/AssyrianVillages" target="_blank">Assyrian Villages</a></li>
+        <li><strong>TikTok:</strong> <a href="https://tiktok.com/@Assyrian_Villages" target="_blank">@Assyrian_Villages</a></li>
+      </ul>
+    </section>
+
+    <div class="popup-buttons">
+      <a href="submit.html" class="submit-link">Submit</a>
+      <button onclick="closeContactPopup()" class="close-button">Close</button>
+    </div>
+  </div>
+
+  <!-- Mapbox JS -->
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.8.0/mapbox-gl.js"></script>
+
+  <!-- Custom JS -->
+  <script src="scripts/map.js"></script>
+
+  <!-- Intro / Search Control Script -->
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const intro = document.getElementById('intro-section');
+      const enterBtn = document.getElementById('enter-button');
+      const searchContainer = document.getElementById('search-container');
+      const searchButton = document.getElementById('search-button');
+
+      if (searchContainer) searchContainer.style.display = 'none';
+      if (searchButton) searchButton.style.display = 'none';
+
+      enterBtn.addEventListener('click', () => {
+        intro.style.opacity = '0';
+        intro.style.pointerEvents = 'none';
+
+        setTimeout(() => {
+          if (searchContainer) searchContainer.style.display = 'flex';
+          if (searchButton) searchButton.style.display = 'inline-block';
+          document.getElementById('map')?.scrollIntoView({ behavior: 'smooth' });
+        }, 800);
+      });
+    });
+  </script>
+
+</body>
+</html>
+
+  <!-- 📖 About Popup -->
+<div id="About-popup" class="About-popup">
+  <h2 class="contact-title">About Assyrian Villages</h2>
+  <hr style="width: 60px; height: 2px; background: #8b0000; border: none; margin: 10px auto 30px;" />
+
+  <section class="contact-section">
+    <h3 class="contact-subtitle">Our Mission</h3>
+    <p>
+      Assyrian Villages is committed to documenting and preserving the history of Assyrian communities worldwide. We gather historical photographs, research village backgrounds, and trace the origins and movements of families and tribes. The goal is to create a lasting and accessible record of who we are and where we come from. 
+    </p>
+  </section>
+
+  <section class="contact-section">
+    <h3 class="contact-subtitle">Why It's Important</h3>
+    <p>
+      Assyrian history is disappearing. Villages have been emptied. Stories have gone untold. Without action, entire parts of our identity will be lost. Preserving this history is not just about honoring the past. It is about knowing who we are today and protecting the roots of our culture. These villages and their histories connect us. They carry the legacy of our strength, our traditions, and our survival.
+    </p>
+  </section>
+
+  <section class="contact-section">
+    <h3 class="contact-subtitle">Our Vision</h3>
+    <p>
+      Our goal is to build the most complete and accessible digital archive of Assyrian village history. This platform will serve as a trusted resource for learning, connection, and preservation. It will help Assyrians around the world rediscover their roots, educate others, and keep our history alive for generations to come.
+    </p>
+  </section>
+
+  <div class="popup-buttons">
+    <button onclick="closeAboutPopup()" class="close-button">Close</button>
+  </div>
+</div>
+
+<!-- Overlay -->
+<div id="popup-overlay"></div>
+  
+<script>
+  const mobileSearchContainer = document.getElementById('mobile-search-container');
+  const searchButton = document.getElementById('mobile-search-button');
+
+  searchButton.addEventListener('click', () => {
+    mobileSearchContainer.classList.toggle('active');
+  });
+</script>

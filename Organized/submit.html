@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<!-- Your Main CSS -->
+<link rel="stylesheet" href="style/main.css">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Submit Information with Files</title>
+    <link rel="stylesheet" href="style/submit.css">
+</head>
+<body>
+    <section class="submission-form">
+        <div class="form-container">
+            <h2>Submit Your Information</h2>
+
+            <!-- Web3Forms submission form -->
+            <form action="https://api.web3forms.com/submit" method="POST" enctype="multipart/form-data">
+                <!-- Hidden field for your Web3Forms access key -->
+                <input type="hidden" name="access_key" value="ae84ad7c-1e78-4f61-997e-f758c931812c">
+
+                <div class="input-container">
+                    <label for="name">Full Name:</label><br>
+                    <input type="text" id="name" name="name" required><br><br>
+                  
+                    <label for="email">Email Address:</label><br>
+                    <input type="email" id="email" name="email" required><br><br>
+                  
+                    <label for="message">Message/Information:</label><br>
+                    <textarea id="message" name="message" rows="4" required></textarea><br><br>
+                  </div>
+                  
+
+                <label for="file" class="custom-file-label">Upload File</label>
+                <input type="file" id="file" name="file" accept="image/*, video/*, .pdf, .docx" multiple>
+                
+                <!-- Submit button -->
+                <input type="submit" value="Submit">
+            </form>
+            
+            <!-- Return Button -->
+            <button class="return-button" onclick="window.location.href='index.html'">Return to Homepage</button>
+        </div>
+    </section>
+</body>
+</html>
+
+<nav id="top-nav">
+    <a href="index.html" class="nav-link">Home</a>
+    <a href="submit.html" class="nav-link">Submit</a>
+    <a href="#" class="nav-link" onclick="openAboutPopup()">About</a>
+    <a href="#" class="nav-link" onclick="openContactPopup()">Contact</a>
+<nav
+
+
+      
